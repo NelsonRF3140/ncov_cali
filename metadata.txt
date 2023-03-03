@@ -1,0 +1,1789 @@
+strain	virus	date	region	country	division	location	pangolin_lineage	GISAID_clade
+hCoV-19/Colombia/VAC-UV-20029991/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-94531583/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31175171/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030538/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030508/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Puerto Tejada	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030516/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030470/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Jamundi	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030475/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Buga	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030483/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030524/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030731/2022	ncov	2022-01-13	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030754/2022	ncov	2022-01-13	South America	Colombia	Valle del Cauca	Cali	BA.1.14	GRA
+hCoV-19/Colombia/VAC-UV-20030835/2022	ncov	2022-01-18	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030627/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030644/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030665/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030724/2022	ncov	2022-01-13	South America	Colombia	Valle del Cauca	Jamundi	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030546/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030594/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030600/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Yumbo	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030855/2022	ncov	2022-01-18	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030859/2022	ncov	2022-01-18	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030895/2022	ncov	2022-01-20	South America	Colombia	Valle del Cauca	Yumbo	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030484/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030729/2022	ncov	2022-01-13	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030743/2022	ncov	2022-01-13	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030760/2022	ncov	2022-01-13	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030773/2022	ncov	2022-01-14	South America	Colombia	Valle del Cauca	Cali	BA.1.20	GRA
+hCoV-19/Colombia/VAC-UV-20030704/2022	ncov	2022-01-12	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030713/2022	ncov	2022-01-12	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030653/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030683/2022	ncov	2022-01-12	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030691/2022	ncov	2022-01-12	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030579/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030595/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030560/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-38603619/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-48570556/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IDIME-29362049/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IDIME-PB2135815/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IDIME-1118298921/2022	ncov	2022-01-08	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IDIME-1109561680/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-29653354/2022	ncov	2022-01-13	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1116372012/2022	ncov	2022-01-12	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-66980632/2022	ncov	2022-01-13	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-14568250/2022	ncov	2022-01-13	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1107099057/2022	ncov	2022-01-12	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-16844593/2022	ncov	2022-01-12	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1113635493/2022	ncov	2022-01-12	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-19142933/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSN-1113674634/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Palmira	BA.1.15	GRA
+hCoV-19/Colombia/VAC-CSN-31964322/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSN-31982987/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-CSN-66904105/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-CSN-1005896883/2022	ncov	2022-01-08	South America	Colombia	Valle del Cauca	Yumbo	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSN-16367504/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSN-94412423/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSN-31470773/2022	ncov	2022-01-08	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-1107066511/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-1113648087/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Palmira	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-1130670640/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-29105849/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Cali	AY.113	GK
+hCoV-19/Colombia/VAC-SDM-1144149350/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-14607531/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-1143842521/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-31571810/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-1061224053/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-66861649/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030237/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030192/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-31640632/2021	ncov	2021-12-30	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-16717555/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-10773879/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16635775/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030869/2022	ncov	2022-01-19	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030612/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030580/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31166/2022	ncov	2022-02-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/COV_24770/2021	ncov	2021-05-19	South America	Colombia	Valle del Cauca	Cali	P.1	GR
+hCoV-19/Colombia/COV_24547/2021	ncov	2021-05-06	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/COV_23933/2021	ncov	2021-04-14	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/COV_25875/2021	ncov	2021-06-29	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/COV_25796/2021	ncov	2021-06-29	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/VAC-CSB-1113651029/2022	ncov	2022-01-12	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-31922410/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca		BA.1.15.1	GRA
+hCoV-19/Colombia/VAC-SDM-94503036/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-FY190470/2022	ncov	2022-02-17	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-CE822614/2022	ncov	2022-02-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-31522/2022	ncov	2022-03-14	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-31859/2022	ncov	2022-04-19	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-UV_31185/2022	ncov	2022-02-09	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-I-34395097/2021	ncov	2021-08-28	South America	Colombia	Valle del Cauca	Cali	Unassigned	GH
+hCoV-19/Colombia/VAC-CSB-1144163834/2022	ncov	2022-01-01	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-CIGQS-8180581/2021	ncov	2021-08-18	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-21081401622/2021	ncov	2021-08-14	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/VAC-CIGQS-8038042/2021	ncov	2021-08-04	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-21082601971/2021	ncov	2021-08-26	South America	Colombia	Valle del Cauca	CALI	AY.43	GK
+hCoV-19/Colombia/VAC-CS-21082702471/2021	ncov	2021-08-28	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/VAC-SAD-248010677/2021	ncov	2021-08-04	South America	Colombia	Valle del Cauca	CALI	AY.3.1	GK
+hCoV-19/Colombia/VAC-SAD-205005395/2021	ncov	2021-08-02	South America	Colombia	Valle del Cauca	PALMIRA	B.1.621	GH
+hCoV-19/Colombia/RIS-SAD-173026289/2021	ncov	2021-07-29	South America	Colombia	Risaralda	GUATICA	B.1.621	GH
+hCoV-19/Colombia/VAC-CIGQS-7270650/2021	ncov	2021-07-28	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/QUI-SAD-177080339/2021	ncov	2021-07-30	South America	Colombia	Quindio	Armenia	B.1.621	GH
+hCoV-19/Colombia/CAL-SAD-131099244/2021	ncov	2021-07-30	South America	Colombia	Caldas	PENSILVANIA	B.1.621	GH
+hCoV-19/Colombia/VAC-SAD-205005411/2021	ncov	2021-08-02	South America	Colombia	Valle del Cauca	PALMIRA	B.1.621	GH
+hCoV-19/Colombia/VAC-CIGQS-7230841/2021	ncov	2021-07-24	South America	Colombia	Valle del Cauca	CALI	P.1	GR
+hCoV-19/Colombia/QUI-SAD-177080426/2021	ncov	2021-07-31	South America	Colombia	Quindio	Armenia	B.1.621	GH
+hCoV-19/Colombia/VAC-CIGQS-7190333/2021	ncov	2021-07-16	South America	Colombia	Valle del Cauca	CALI	C.37	GR
+hCoV-19/Colombia/ANT-CS-21081202080/2021	ncov	2021-08-11	South America	Colombia	Antioquia	MEDELLIN	AY.26	GK
+hCoV-19/Colombia/VAC-SAD-134240462/2021	ncov	2021-07-31	South America	Colombia	Valle del Cauca		B.1.621	GH
+hCoV-19/Colombia/ANT-CS-21081701862/2021	ncov	2021-08-18	South America	Colombia	Antioquia	MEDELLIN	AY.25.1	GK
+hCoV-19/Colombia/ANT-CS-21081701851/2021	ncov	2021-08-17	South America	Colombia	Antioquia	MEDELLIN	AY.25.1	GK
+hCoV-19/Colombia/CAL-CS-21080902567/2021	ncov	2021-08-10	South America	Colombia	Caldas	MANIZALES	AY.20	GK
+hCoV-19/Colombia/VAC-CIGQS-8020669/2021	ncov	2021-07-31	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/VAC-SAD-205005457/2021	ncov	2021-08-03	South America	Colombia	Valle del Cauca	PALMIRA	B.1	G
+hCoV-19/Colombia/VAC-SAD-134240458/2021	ncov	2021-09-02	South America	Colombia	Valle del Cauca	CALI	B.1.621	G
+hCoV-19/Colombia/VAC-SAD-134240626/2021	ncov	2021-08-01	South America	Colombia	Valle del Cauca	JAMUNDI	P.1.15	GR
+hCoV-19/Colombia/VAC-CS-21082702485/2021	ncov	2021-08-27	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-21081202012/2021	ncov	2021-08-12	South America	Colombia	Valle del Cauca	PALMIRA	P.1	GR
+hCoV-19/Colombia/VAC-SAD-205005442/2021	ncov	2021-08-03	South America	Colombia	Valle del Cauca	PALMIRA	C.37	GR
+hCoV-19/Colombia/VAC-CS-21081102519/2021	ncov	2021-08-12	South America	Colombia	Valle del Cauca	CALI	B.1.621.1	GH
+hCoV-19/Colombia/VAC-FVL-1107837104/2022	ncov	2022-01-18	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1130600606/2022	ncov	2022-01-18	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-LADS-14983207/2021	ncov	2021-09-30	South America	Colombia	Valle Del Cauca	Cali	AY.26	GK
+hCoV-19/Colombia/VAC-SAD-16362475/2021	ncov	2021-10-02	South America	Colombia	Valle Del Cauca	Tulua	AY.122	GK
+hCoV-19/Colombia/VAC-CS-1114558691/2021	ncov	2021-09-29	South America	Colombia	Valle Del Cauca	Palmira	AY.44	GK
+hCoV-19/Colombia/VAC-SAD-1144178941/2021	ncov	2021-10-06	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/QUI-LADS-10260290/2021	ncov	2021-10-01	South America	Colombia	Quindio	Armenia	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-1144210381/2021	ncov	2021-09-29	South America	Colombia	Valle Del Cauca	Yumbo	AY.44	GK
+hCoV-19/Colombia/VAC-I-16590860/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-UV-20030692/2022	ncov	2022-01-12	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-16799272/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca		BA.1	GRA
+hCoV-19/Colombia/VAC-FVL-1151935644/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030004/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030005/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-29629/2021	ncov	2021-12-06	South America	Colombia	Valle Del Cauca	Cali	AY.14	GK
+hCoV-19/Colombia/VAC-UV-29474/2021	ncov	2021-11-29	South America	Colombia	Valle Del Cauca	Cali	AY.103	GK
+hCoV-19/Colombia/VAC-UV-29372/2021	ncov	2021-11-22	South America	Colombia	Valle Del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-CSB-16470157/2021	ncov	2021-11-13	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-27638473/2021	ncov	2021-11-09	South America	Colombia	Valle Del Cauca	Cali	AY.5	GK
+hCoV-19/Colombia/VAC-UV-29603/2021	ncov	2021-12-03	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-29637/2021	ncov	2021-12-06	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-29651/2021	ncov	2021-12-06	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-29472/2021	ncov	2021-11-29	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-UV-29599/2021	ncov	2021-12-02	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-29600/2021	ncov	2021-12-02	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-29424/2021	ncov	2021-11-24	South America	Colombia	Valle Del Cauca	Cali	AY.122.4	GK
+hCoV-19/Colombia/VAC-UV-29377/2021	ncov	2021-11-22	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-UV-29327/2021	ncov	2021-11-19	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-UV-29266/2021	ncov	2021-11-16	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-29274/2021	ncov	2021-11-17	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-29262/2021	ncov	2021-11-16	South America	Colombia	Valle Del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-SAD-94257737/2021	ncov	2021-10-26	South America	Colombia	Valle Del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-SAD-94298080/2021	ncov	2021-10-27	South America	Colombia	Valle Del Cauca	Candelaria	B.1.617.2	GK
+hCoV-19/Colombia/VAC-SAD-1144064055/2021	ncov	2021-10-23	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-SAD-39841752/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-SAD-1087047691/2021	ncov	2021-07-24	South America	Colombia	Valle Del Cauca	Candelaria	B.1	G
+hCoV-19/Colombia/VAC-CSB-31886834/2021	ncov	2021-10-23	South America	Colombia	Valle Del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-CSB-31533020/2021	ncov	2021-11-10	South America	Colombia	Valle Del Cauca	Cali	AY.24	GK
+hCoV-19/Colombia/VAC-CSB-1116275962/2021	ncov	2021-11-07	South America	Colombia	Valle Del Cauca	Tulua	AY.122	GK
+hCoV-19/Colombia/VAC-CSB-72195923/2021	ncov	2021-11-27	South America	Colombia	Valle Del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-CSB-29279367/2021	ncov	2021-11-28	South America	Colombia	Valle Del Cauca	Cali	AY.42	GK
+hCoV-19/Colombia/VAC-CSN-1113637077/2021	ncov	2021-12-01	South America	Colombia	Valle Del Cauca	Palmira	AY.43	GK
+hCoV-19/Colombia/VAC-CSN-24382008/2021	ncov	2021-11-30	South America	Colombia	Valle Del Cauca	Cali	AY.122.4	GK
+hCoV-19/Colombia/VAC-CSN-1110292437/2021	ncov	2021-11-29	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-CSN-25093884/2021	ncov	2021-11-29	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSN-22807136/2021	ncov	2021-11-24	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSN-12951365/2021	ncov	2021-11-30	South America	Colombia	Valle Del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-IDIME-31248570/2021	ncov	2021-11-26	South America	Colombia	Valle Del Cauca	Cali	AY.9.2	GK
+hCoV-19/Colombia/VAC-IDIME-16686148/2021	ncov	2021-11-27	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSN-31270844/2021	ncov	2021-11-26	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-IDIME-1075209343/2021	ncov	2021-11-26	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-IDIME-16917291/2021	ncov	2021-11-26	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-IDIME-14978172/2021	ncov	2021-11-27	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-IDIME-1112098363/2021	ncov	2021-11-11	South America	Colombia	Valle Del Cauca	Bugalagrande	AY.25.1	GK
+hCoV-19/Colombia/VAC-IDIME-1143990377/2021	ncov	2021-11-24	South America	Colombia	Valle Del Cauca	Cali	AY.9.2	GK
+hCoV-19/Colombia/VAC-IDIME-2772157/2021	ncov	2021-11-24	South America	Colombia	Valle Del Cauca	Yumbo	AY.20	GK
+hCoV-19/Colombia/VAC-IDIME-31473517/2021	ncov	2021-11-28	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/UN-FVL-16759941/2021	ncov	2021-11-25	South America	Colombia			B.1.617.2	GK
+hCoV-19/Colombia/VAC-IDIME-1112159107/2021	ncov	2021-11-24	South America	Colombia	Valle Del Cauca	Buga	AY.122.4	GK
+hCoV-19/Colombia/VAC-IDIME-31922656/2021	ncov	2021-11-24	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/UN-FVL-1144104448/2021	ncov	2021-11-27	South America	Colombia			AY.43	GK
+hCoV-19/Colombia/UN-FVL-1057330499/2021	ncov	2021-11-29	South America	Colombia			AY.43	GK
+hCoV-19/Colombia/UN-FVL-66955926/2021	ncov	2021-11-27	South America	Colombia			AY.43	GK
+hCoV-19/Colombia/UN-FVL-34548580/2021	ncov	2021-11-10	South America	Colombia			AY.9.2	GK
+hCoV-19/Colombia/UN-FVL-1006181327/2021	ncov	2021-11-24	South America	Colombia			AY.43	GK
+hCoV-19/Colombia/UN-FVL-29938014/2021	ncov	2021-11-21	South America	Colombia			AY.9.2	GK
+hCoV-19/Colombia/UN-FVL-11371239/2021	ncov	2021-11-24	South America	Colombia			AY.43	GK
+hCoV-19/Colombia/UN-FVL-1006170958/2021	ncov	2021-11-29	South America	Colombia			AY.43	GK
+hCoV-19/Colombia/UN-FVL-29108933/2021	ncov	2021-11-23	South America	Colombia			B.1.617.2	GK
+hCoV-19/Colombia/NAR-CI-11310842/2021	ncov	2021-09-24	South America	Colombia	Narino	Pasto	AY.20	GK
+hCoV-19/Colombia/VAC-CI-1112491637/2021	ncov	2021-10-13	South America	Colombia	Valle Del Cauca	Jamundi	B.1.621	GH
+hCoV-19/Colombia/VAC-CI-31641824/2021	ncov	2021-10-21	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CI-31475520/2021	ncov	2021-10-23	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-CI-1151935347/2021	ncov	2021-10-27	South America	Colombia	Valle Del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-LADS-1092462618/2021	ncov	2021-11-15	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/QUI-LADS-19248821/2021	ncov	2021-11-15	South America	Colombia	Quindio	Armenia	AY.101	GK
+hCoV-19/Colombia/VAC-CI-31133996/2021	ncov	2021-10-12	South America	Colombia	Valle Del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-LADS-32417248/2021	ncov	2021-11-14	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-UV-29677/2021	ncov	2021-12-09	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/DC-SAD-134240387/2021	ncov	2021-08-01	South America	Colombia	Bogota		AY.3	GK
+hCoV-19/Colombia/VAC-COV_24846/2021	ncov	2021-05-24	South America	Colombia	Valle del Cauca	Cali	P.1	GR
+hCoV-19/Colombia/VAC-COV_24796/2021	ncov	2021-05-20	South America	Colombia	Valle del Cauca	Cali	P.1	GR
+hCoV-19/Colombia/VAC-COV_24539/2021	ncov	2021-05-06	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-COV_25776/2021	ncov	2021-06-28	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-COV_25067/2021	ncov	2021-06-02	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-COV_24419/2021	ncov	2021-04-28	South America	Colombia	Valle del Cauca	Cali	B.1.623	GH
+hCoV-19/Colombia/VAC-COV_24670/2021	ncov	2021-05-13	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20030585/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030103/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030109/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-CSB-1107531244/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IDIME-1006051011/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IDIME-31209108/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144065828/2022	ncov	2022-01-01	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-IDIME-16660605/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IDIME-38554256/2022	ncov	2022-01-01	South America	Colombia	Valle del Cauca	Cali	BA.1.20	GRA
+hCoV-19/Colombia/CAL-SURA-1057783800/2022	ncov	2022-03-23	South America	Colombia	Caldas	Manizales	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-6104117/2022	ncov	2022-01-09	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-1130637162/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030151/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-CSB-31947468/2022	ncov	2022-01-30	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-1085255521/2022	ncov	2022-01-11	South America	Colombia	Narino	Pasto	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-1144043729/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-14679751/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1130608178/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-94061108/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-1130652446/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-31977386/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16591664/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-CSB-1107517302/2022	ncov	2022-01-01	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030212/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030018/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-6343057/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1073157777/2021	ncov	2021-12-31	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030217/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SDM-1113517453/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-80422597/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-SDM-31144798/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Palmira	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSN-31986945/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-115193591/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Guacari	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1094860057/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/CO-UV-26561/2021	ncov	2021-07-19	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-26747/2021	ncov	2021-07-26	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027209/2021	ncov	2021-08-11	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027018/2021	ncov	2021-08-05	South America	Colombia	Valle del Cauca	Cartago	B.1.621	GH
+hCoV-19/Colombia/VAC-CSB-66981196/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-CSN-1118289057/2022	ncov	2022-01-08	South America	Colombia	Valle del Cauca	Yumbo	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1130614182/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1114459019/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Guacari	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31191/2022	ncov	2022-02-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31199/2022	ncov	2022-02-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31249/2022	ncov	2022-02-16	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV_31303/2022	ncov	2022-02-21	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31209/2022	ncov	2022-02-14	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31227/2022	ncov	2022-02-14	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31466/2022	ncov	2022-03-08	South America	Colombia	Valle del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-UV_31304/2022	ncov	2022-02-21	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31465/2022	ncov	2022-03-08	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SURA-19155904/2022	ncov	2022-01-24	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SURA-66746700/2022	ncov	2022-01-26	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SURA-1094932099/2022	ncov	2022-01-27	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SURA-6645135/2022	ncov	2022-01-26	South America	Colombia	Valle del Cauca	Palmira	BA.1.1	GRA
+hCoV-19/Colombia/QUI-SURA-1116252864/2022	ncov	2022-01-27	South America	Colombia	Quindio	Armenia	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IMBANACO-94493820/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/ANT-SURA-76009648/2022	ncov	2022-03-21	South America	Colombia	Antioquia	Medellin	BA.1.1	GRA
+hCoV-19/Colombia/QUI-SURA-41948663/2022	ncov	2022-01-26	South America	Colombia	Quindio	Armenia	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SURA-1130639085/2022	ncov	2022-01-25	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/RIS-SURA-18500732/2022	ncov	2022-02-21	South America	Colombia	Risaralda	Dos Quebrada	BA.1.15.3	GRA
+hCoV-19/Colombia/RIS-SURA-19081309/2022	ncov	2022-02-21	South America	Colombia	Risaralda	Pereira	BA.1.1	GRA
+hCoV-19/Colombia/CAL-SURA-1053799328/2022	ncov	2022-02-21	South America	Colombia	Caldas	Manizales	BA.1.1	GRA
+hCoV-19/Colombia/RIS-SURA-368626/2022	ncov	2022-03-26	South America	Colombia	Risaralda	Pereira	BA.1.1	GRA
+hCoV-19/Colombia/CAL-SURA-24779988/2022	ncov	2022-02-22	South America	Colombia	Caldas	Manizales	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1110363487/2022	ncov	2022-01-09	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16580537/2022	ncov	2022-01-09	South America	Colombia	Valle del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-SYNLAB-1086195199/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/CAU-SYNLAB-1114886517/2022	ncov	2022-01-12	South America	Colombia	Cauca	Popayan	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1112471755/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Guacari	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1113680457/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-12980571/2022	ncov	2022-01-11	South America	Colombia	Narino	Buesaco	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1144076095/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31090/2022	ncov	2022-01-31	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31092/2022	ncov	2022-02-01	South America	Colombia	Valle del Cauca	Candelaria	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31108/2022	ncov	2022-02-01	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV_31118/2022	ncov	2022-02-02	South America	Colombia	Valle del Cauca	Cali	BA.1.14	GRA
+hCoV-19/Colombia/VAC-UV_31120/2022	ncov	2022-02-02	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV_31127/2022	ncov	2022-02-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-10277326/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31190069/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-4367498/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1085257121/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-6160199/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-38944752/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1109926169/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-94394778/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1113635588/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-66660383/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	El Cerrito	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1114825919/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	El Cerrito	BA.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1114456166/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Guacari	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31165/2022	ncov	2022-02-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31150/2022	ncov	2022-02-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31159/2022	ncov	2022-02-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31168/2022	ncov	2022-02-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1113631597/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1005896461/2021	ncov	2021-12-31	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1017128204/2022	ncov	2022-01-08	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-CSB-1130669158/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/CO-UV-20026902/2021	ncov	2021-08-01	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/CO-UV-20027012/2021	ncov	2021-08-04	South America	Colombia	Valle del Cauca	Cali	P.1	GR
+hCoV-19/Colombia/CO-UV-26254/2021	ncov	2021-07-08	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-26266/2021	ncov	2021-07-09	South America	Colombia	Quindio	Armenia	B.1.621	GH
+hCoV-19/Colombia/CO-UV-26478/2021	ncov	2021-07-16	South America	Colombia	Valle del Cauca	Buenaventura	B.1.621	GH
+hCoV-19/Colombia/CO-UV-26740/2021	ncov	2021-07-27	South America	Colombia	Valle del Cauca	Buga	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20026946/2021	ncov	2021-08-03	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20026956/2021	ncov	2021-08-03	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027017/2021	ncov	2021-08-05	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20026885/2021	ncov	2021-08-01	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20026965/2021	ncov	2021-08-03	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027119/2021	ncov	2021-08-09	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027138/2021	ncov	2021-08-09	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20026536/2021	ncov	2021-07-19	South America	Colombia	Valle del Cauca	Yumbo	B.1.621	GH
+hCoV-19/Colombia/CO-UV-26067/2021	ncov	2021-07-02	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20026301/2021	ncov	2021-07-11	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027222/2021	ncov	2021-08-12	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027269/2021	ncov	2021-08-13	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-26748/2021	ncov	2021-07-26	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/CO-UV-20026974/2021	ncov	2021-08-03	South America	Colombia	Valle del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/CO-UV-20027170/2021	ncov	2021-08-10	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-28681/2021	ncov	2021-10-11	South America	Colombia	Valle del Cauca	Cali	AY.122.4	GK
+hCoV-19/Colombia/VAC-CS-14975001/2021	ncov	2021-09-16	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-UV-27789/2021	ncov	2021-09-04	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-28513/2021	ncov	2021-10-03	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-LADS-11130669920/2021	ncov	2021-09-20	South America	Colombia	Valle del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-LADS-131228671/2021	ncov	2021-09-23	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-28042/2021	ncov	2021-09-14	South America	Colombia	Valle del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-UV-28491/2021	ncov	2021-10-04	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CS-29639557/2021	ncov	2021-09-21	South America	Colombia	Valle del Cauca	Cali	B.1.621.2	GH
+hCoV-19/Colombia/VAC-I-1130668443/2021	ncov	2021-09-01	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-I-17635006/2021	ncov	2021-09-14	South America	Colombia	Valle del Cauca	Yumbo	B.1.621.2	GH
+hCoV-19/Colombia/VAC-UV-28201/2021	ncov	2021-09-21	South America	Colombia	Valle del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-UV-28026/2021	ncov	2021-09-15	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20030020/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030022/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030251/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030177/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030181/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030182/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030131/2021	ncov	2021-12-30	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030133/2021	ncov	2021-12-30	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030230/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030232/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030234/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030236/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030193/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030220/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030223/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030228/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030202/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030001/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030016/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20029999/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030043/2021	ncov	2021-12-28	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-20030017/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	AY.4	GK
+hCoV-19/Colombia/VAC-UV-20030110/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030112/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-20030087/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-20030094/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030097/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030113/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030114/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030116/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-20030058/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030059/2021	ncov	2021-12-28	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030069/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030071/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	AY.45	GK
+hCoV-19/Colombia/VAC-UV-20030049/2021	ncov	2021-12-28	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030057/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030072/2021	ncov	2021-12-30	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030074/2021	ncov	2021-12-30	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030081/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030083/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030252/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030253/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030254/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030155/2022	ncov	2022-01-01	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-20030167/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030170/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030174/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030138/2021	ncov	2021-12-30	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030120/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030121/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030130/2021	ncov	2021-12-30	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030139/2021	ncov	2021-12-30	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030143/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030231/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030239/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030246/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030247/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030233/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030195/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.15.1	GRA
+hCoV-19/Colombia/VAC-UV-20030216/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030159/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030135/2021	ncov	2021-12-30	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030180/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030176/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030172/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030238/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030201/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030012/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030106/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV-20030085/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030082/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030050/2021	ncov	2021-12-28	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030117/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030255/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030243/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	B.1.1.529	GRA
+hCoV-19/Colombia/VAC-UdeV-01-2/2020	ncov	2020-04-02	South America	Colombia	Valle del Cauca	Cali	B.1	GH
+hCoV-19/Colombia/QUI-LADS-1053768860/2021	ncov	2021-11-11	South America	Colombia	Quindio	Armenia	AY.25.1	GK
+hCoV-19/Colombia/VAC-I-31887936/2021	ncov	2021-09-14	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-I-16377079/2021	ncov	2021-09-03	South America	Colombia	Valle del Cauca	Palmira	B.1.621	GH
+hCoV-19/Colombia/VAC-I-29488974/2021	ncov	2021-09-06	South America	Colombia	Valle del Cauca	Palmira	B.1.621	GH
+hCoV-19/Colombia/VAC-I-1107067204/2021	ncov	2021-09-10	South America	Colombia	Valle del Cauca	Candelaria	B.1.621	GH
+hCoV-19/Colombia/VAC-I-76337648/2021	ncov	2021-09-01	South America	Colombia	Valle del Cauca	Jamundi	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-38590232/2021	ncov	2021-09-16	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-I-1144060061/2021	ncov	2021-09-11	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-7009954413/2021	ncov	2021-09-17	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-28321/2021	ncov	2021-09-27	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-28118/2021	ncov	2021-09-17	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-28046/2021	ncov	2021-09-15	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-27839/2021	ncov	2021-09-06	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-I-94315002/2021	ncov	2021-09-16	South America	Colombia	Valle del Cauca	Palmira	AY.100	GK
+hCoV-19/Colombia/VAC-I-66983842/2021	ncov	2021-09-02	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-I-1144160455/2021	ncov	2021-09-13	South America	Colombia	Valle del Cauca	Cali	AY.9.2	GK
+hCoV-19/Colombia/VAC-LADS-120223325/2021	ncov	2021-09-20	South America	Colombia	Valle del Cauca	Cali	AY.9.2	GK
+hCoV-19/Colombia/VAC-UV-27982/2021	ncov	2021-09-13	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-28552/2021	ncov	2021-10-05	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-28208/2021	ncov	2021-09-22	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-2246275231/2021	ncov	2021-09-25	South America	Colombia	Valle del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-CS-21090101944-86/2021	ncov	2021-09-01	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-I-1116259633/2021	ncov	2021-08-30	South America	Colombia	Valle del Cauca	Tulua	B.1.617.2	GK
+hCoV-19/Colombia/VAC-UV-28199/2021	ncov	2021-09-21	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-28631/2021	ncov	2021-10-08	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CS-6287759/2021	ncov	2021-09-18	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-I-94072430/2021	ncov	2021-09-10	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-20130758/2021	ncov	2021-09-15	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-I-29280365/2021	ncov	2021-09-02	South America	Colombia	Valle del Cauca	Jamundi	B.1.621	GH
+hCoV-19/Colombia/VAC-I-1130654869/2021	ncov	2021-09-15	South America	Colombia	Valle del Cauca	Palmira	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-27826/2021	ncov	2021-09-06	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-I-79139965/2021	ncov	2021-08-31	South America	Colombia	Valle del Cauca	Jamundi	B.1.621	GH
+hCoV-19/Colombia/VAC-I-94309307/2021	ncov	2021-09-05	South America	Colombia	Valle del Cauca	Palmira	B.1.621	GH
+hCoV-19/Colombia/VAC-I-25873365/2021	ncov	2021-09-11	South America	Colombia	Valle del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-I-38600186/2021	ncov	2021-09-13	South America	Colombia	Valle del Cauca	Cali	AY.42	GK
+hCoV-19/Colombia/VAC-I-1105381113/2021	ncov	2021-09-12	South America	Colombia	Valle del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-UV-28279/2021	ncov	2021-09-24	South America	Colombia	Valle del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-UV-28145/2021	ncov	2021-09-20	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/ANT-LADS-194524702/2021	ncov	2021-09-22	South America	Colombia	Antioquia	Medellin	AY.26	GK
+hCoV-19/Colombia/VAC-UV-28350/2021	ncov	2021-09-27	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-28539/2021	ncov	2021-10-05	South America	Colombia	Valle del Cauca	Cali	B.1.621.2	GH
+hCoV-19/Colombia/VAC-UV-28137/2021	ncov	2021-09-19	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-66914637/2021	ncov	2021-09-19	South America	Colombia	Valle del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-LADS-143748295/2021	ncov	2021-09-24	South America	Colombia	Valle del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/CAL-LADS-175088573/2021	ncov	2021-09-22	South America	Colombia	Caldas	Manizales	AY.20	GK
+hCoV-19/Colombia/VAC-UV-28450/2021	ncov	2021-10-01	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-UV-28551/2021	ncov	2021-10-06	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-LADS-11151955504/2021	ncov	2021-09-21	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-LADS-11143973729/2021	ncov	2021-09-21	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-I-1105361330/2021	ncov	2021-09-15	South America	Colombia	Valle del Cauca	Palmira	AY.26	GK
+hCoV-19/Colombia/VAC-LADS-1108649450/2021	ncov	2021-09-22	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-I-1105388755/2021	ncov	2021-09-17	South America	Colombia	Valle del Cauca	Cali	AY.26	GK
+hCoV-19/Colombia/VAC-LADS-11106524686/2021	ncov	2021-09-24	South America	Colombia	Valle del Cauca	Cali	AY.26	GK
+hCoV-19/Colombia/VAC-I-1144149190/2021	ncov	2021-09-16	South America	Colombia	Valle del Cauca	Cali	AY.26	GK
+hCoV-19/Colombia/VAC-I-66919953/2021	ncov	2021-09-15	South America	Colombia	Valle del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-I-1110283853/2021	ncov	2021-09-14	South America	Colombia	Valle del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-CS-27274202/2021	ncov	2021-09-17	South America	Colombia	Valle del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-CS-31642114/2021	ncov	2021-09-17	South America	Colombia	Valle del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-UV-28500/2021	ncov	2021-10-04	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-28554/2021	ncov	2021-10-05	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-28603/2021	ncov	2021-10-06	South America	Colombia	Valle del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-UV-28496/2021	ncov	2021-10-04	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-28493/2021	ncov	2021-10-04	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-28494/2021	ncov	2021-10-04	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-28477/2021	ncov	2021-10-04	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-UV-28492/2021	ncov	2021-10-04	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-HUV-202109050483/2021	ncov	2021-09-05	South America	Colombia	Valle del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-UV-28523/2021	ncov	2021-10-04	South America	Colombia	Valle del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-I-2760803/2021	ncov	2021-09-10	South America	Colombia	Valle del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-UV-28495/2021	ncov	2021-10-04	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-I-16919113/2021	ncov	2021-09-02	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/UN-FVL-66924252/2021	ncov	2021-11-25	South America	Colombia			AY.20	GK
+hCoV-19/Colombia/VAC-FVL-1144063930/2022	ncov	2022-01-18	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1058932419/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/DC-CSB-1130622121/2022	ncov	2022-01-30	South America	Colombia	Distrito Capital	Bogota	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-10533380/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1151941726/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144170099/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-52964662/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-CSB-1107058903/2021	ncov	2021-12-24	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/QUI-CSB-16659051/2021	ncov	2021-12-25	South America	Colombia	Quindio	Armenia	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1141519904/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1005745353/2021	ncov	2021-12-31	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-67014069/2022	ncov	2022-01-01	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-66862023/2022	ncov	2022-01-09	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1053819722/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144048879/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-CSB-66919900/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1109926726/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-19118603/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-67010603/2021	ncov	2021-12-31	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1234193441/2022	ncov	2022-01-12	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-CSB-1005898264/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144079554/2022	ncov	2022-01-22	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-CSB-10490732/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-29179993/2021	ncov	2021-12-31	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1010226761/2022	ncov	2022-01-01	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1032458170/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-31321799/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144160693/2022	ncov	2022-01-30	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-CSB-1144031933/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-31250852/2022	ncov	2022-01-01	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144077860/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-38986077/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-CSB-1007370952/2021	ncov	2021-12-31	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1105375660/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-94459921/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-CSB-1153464349/2021	ncov	2021-11-22	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-38555110/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-CSB-11806448/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1005892405/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-31144375/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-8042622/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca		BA.1.17	GRA
+hCoV-19/Colombia/VAC-CSB-1005891890/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-CSB-94318427/2022	ncov	2022-01-22	South America	Colombia	Valle del Cauca	Palmira	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-66916936/2022	ncov	2022-01-01	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1130682649/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1107071024/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca		BA.1.15	GRA
+hCoV-19/Colombia/VAC-FVL-1144036689/2022	ncov	2022-01-18	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1193275246/2022	ncov	2022-01-18	South America	Colombia	Valle del Cauca		BA.1	GRA
+hCoV-19/Colombia/VAC-FVL-31919042/2022	ncov	2022-01-18	South America	Colombia	Valle del Cauca		BA.1.15	GRA
+hCoV-19/Colombia/VAC-FVL-29117073/2022	ncov	2022-01-18	South America	Colombia	Valle del Cauca		BA.1.15	GRA
+hCoV-19/Colombia/VAC-FVL-1143941046/2022	ncov	2022-01-18	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/CO-UV-20026419/2021	ncov	2021-07-14	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-26362/2021	ncov	2021-07-13	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-COV_25884/2021	ncov	2021-06-29	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-COV_24759/2021	ncov	2021-05-19	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-COV_24867/2021	ncov	2021-05-24	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-COV_25057/2021	ncov	2021-06-02	South America	Colombia	Valle del Cauca	Cali	B.1.621.1	GH
+hCoV-19/Colombia/VAC-COV_25774/2021	ncov	2021-06-28	South America	Colombia	Valle del Cauca	Cali	B.1.621.1	GH
+hCoV-19/Colombia/VAC-COV_25810/2021	ncov	2021-06-28	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/COV_24635/2021	ncov	2021-05-11	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/COV_24656/2021	ncov	2021-05-13	South America	Colombia	Valle del Cauca	Cali	P.1	GR
+hCoV-19/Colombia/COV_24923/2021	ncov	2021-05-26	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/CO-UV-26250/2021	ncov	2021-07-08	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-26439/2021	ncov	2021-07-14	South America	Colombia	Valle del Cauca	Cali	B.1.621.1	GH
+hCoV-19/Colombia/CO-UV-26581/2021	ncov	2021-07-21	South America	Colombia	Choco	Quibdo	B.1.621	GH
+hCoV-19/Colombia/CO-UV-26548/2021	ncov	2021-07-19	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-26723/2021	ncov	2021-07-26	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-26847/2021	ncov	2021-07-29	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20026921/2021	ncov	2021-08-02	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20026923/2021	ncov	2021-08-02	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20026952/2021	ncov	2021-08-03	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027070/2021	ncov	2021-08-05	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20026927/2021	ncov	2021-08-02	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20026987/2021	ncov	2021-08-04	South America	Colombia	Caldas	Aguadas	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027036/2021	ncov	2021-08-05	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027091/2021	ncov	2021-08-08	South America	Colombia	Valle del Cauca	Cali	B.1.621.1	GH
+hCoV-19/Colombia/CO-UV-20027169/2021	ncov	2021-08-10	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027202/2021	ncov	2021-08-11	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027204/2021	ncov	2021-08-11	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027274/2021	ncov	2021-08-17	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20027030/2021	ncov	2021-08-06	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CO-UV-20026422/2021	ncov	2021-07-15	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/VAC-CSN-1087127670/2021	ncov	2021-11-26	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-UV-20026634/2021	ncov	2021-07-21	South America	Colombia	Valle del Cauca	Cali	B.1	G
+hCoV-19/Colombia/VAC-LCSS-21081702116-86/2021	ncov	2021-08-17	South America	Colombia	Valle del Cauca	Palmira	B.1.621	GH
+hCoV-19/Colombia/VAC-LCSS-21081702079-86/2021	ncov	2021-08-17	South America	Colombia	Valle del Cauca	Palmira	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-26361/2021	ncov	2021-07-13	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026612/2021	ncov	2021-07-21	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026750/2021	ncov	2021-07-26	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026844/2021	ncov	2021-07-29	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/VAC-LCSS-21081102796-86/2021	ncov	2021-08-11	South America	Colombia	Valle del Cauca	Palmira	B.1.621	GH
+hCoV-19/Colombia/VAC-LCSS-21081701723-86/2021	ncov	2021-08-17	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-LCSS-21081701870-86/2021	ncov	2021-08-17	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-LCSS-21081702004-86/2021	ncov	2021-08-17	South America	Colombia	Valle del Cauca	El Cerrito	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026398/2021	ncov	2021-07-13	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026511/2021	ncov	2021-07-19	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026567/2021	ncov	2021-07-20	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026597/2021	ncov	2021-07-20	South America	Colombia	Valle del Cauca	La Cumbre	B.1.621.1	GH
+hCoV-19/Colombia/VAC-UV-20025981/2021	ncov	2021-07-01	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026043/2021	ncov	2021-07-06	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026047/2021	ncov	2021-07-06	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20027457/2021	ncov	2021-08-23	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20027476/2021	ncov	2021-08-23	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/VAC-UV-20027479/2021	ncov	2021-08-23	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20027517/2021	ncov	2021-08-24	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20027657/2021	ncov	2021-08-30	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20027422/2021	ncov	2021-08-19	South America	Colombia	Valle del Cauca	Jamundi	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20027443/2021	ncov	2021-08-21	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20027298/2021	ncov	2021-08-16	South America	Colombia	Valle del Cauca	Cali	AY.9.2	GK
+hCoV-19/Colombia/VAC-UV-20027325/2021	ncov	2021-08-17	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20027368/2021	ncov	2021-08-18	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-16642275/2021	ncov	2021-10-11	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-CSB-16590551/2021	ncov	2021-10-07	South America	Colombia	Valle del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSN-31882697/2021	ncov	2021-11-30	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSN-16798041/2021	ncov	2021-11-29	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSN-29678705/2021	ncov	2021-12-01	South America	Colombia	Valle Del Cauca	Palmira	AY.122	GK
+hCoV-19/Colombia/VAC-CSB-1006166728/2021	ncov	2021-10-13	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSN-1113677216/2021	ncov	2021-12-01	South America	Colombia	Valle Del Cauca	Florida	AY.122	GK
+hCoV-19/Colombia/VAC-CSN-1127210607/2021	ncov	2021-12-02	South America	Colombia	Valle Del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-I-31168102/2021	ncov	2021-09-24	South America	Colombia	Valle Del Cauca	Palmira	Unassigned	G
+hCoV-19/Colombia/VAC-CSB-1113536244/2021	ncov	2021-10-03	South America	Colombia	Valle Del Cauca	Cali	Unassigned	GK
+hCoV-19/Colombia/VAC-CSB-29463442/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-SAD-1113520291/2021	ncov	2021-10-15	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-SAD-16725769/2021	ncov	2021-10-15	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-SAD-1144179357/2021	ncov	2021-10-15	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-1044647587/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-29098208/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-CSB-94297379/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-UV-28808/2021	ncov	2021-10-14	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-SAD-6108426/2021	ncov	2021-10-06	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-CS-1108649104/2021	ncov	2021-10-02	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-SAD-1005894598/2021	ncov	2021-10-04	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-38953406/2021	ncov	2021-10-01	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-SAD-10270802/2021	ncov	2021-10-02	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-1143931409/2021	ncov	2021-09-30	South America	Colombia	Valle Del Cauca	Cali	AY.42	GK
+hCoV-19/Colombia/VAC-CSB-1144149380/2021	ncov	2021-10-01	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-SAD-1144174581/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-CSB-16643478/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-20244111/2021	ncov	2021-09-29	South America	Colombia	Valle Del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-CS-29568576/2021	ncov	2021-09-29	South America	Colombia	Valle Del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-CSB-29362561/2021	ncov	2021-09-29	South America	Colombia	Valle Del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-CSB-1105936158/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-CSB-6088592/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.3.1	GK
+hCoV-19/Colombia/VAC-CSB-803355507122009/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-CSB-RC1109683972/2021	ncov	2021-09-30	South America	Colombia	Valle Del Cauca	Cali	AY.42	GK
+hCoV-19/Colombia/VAC-CS-38975340/2021	ncov	2021-09-29	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-RC1109570534/2021	ncov	2021-09-30	South America	Colombia	Valle Del Cauca	Cali	AY.42	GK
+hCoV-19/Colombia/VAC-ASOCLINIC-66900455/2021	ncov	2021-09-22	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-I-31883404/2021	ncov	2021-09-25	South America	Colombia	Valle Del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-I-1114840101/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cerrito	AY.101	GK
+hCoV-19/Colombia/VAC-I-1114823708/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cerrito	AY.101	GK
+hCoV-19/Colombia/VAC-SAD-1113655226/2021	ncov	2021-10-04	South America	Colombia	Valle Del Cauca	Palmira	AY.25.1	GK
+hCoV-19/Colombia/VAC-SAD-94494050/2021	ncov	2021-10-14	South America	Colombia	Valle Del Cauca	Jamundi	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-1107533725/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-CSB-1130603460/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-1117548370/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-CSB-31309462/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	AY.103	GK
+hCoV-19/Colombia/VAC-ASOCLINIC-16448954/2021	ncov	2021-09-19	South America	Colombia	Valle Del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-1143848819/2021	ncov	2021-10-01	South America	Colombia	Valle Del Cauca	Palmira	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-1116238607/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Tulua	AY.122	GK
+hCoV-19/Colombia/VAC-CSB-4525878/2021	ncov	2021-10-29	South America	Colombia	Valle Del Cauca	Tulua	AY.43	GK
+hCoV-19/Colombia/VAC-UV-28811/2021	ncov	2021-10-10	South America	Colombia	Valle Del Cauca	Yumbo	AY.43	GK
+hCoV-19/Colombia/VAC-SAD-14975858/2021	ncov	2021-10-01	South America	Colombia	Valle Del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-I-1144188384/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/NAR-SAD-59123865/2021	ncov	2021-10-05	South America	Colombia	Nariño	Pasto	B.1.621	GH
+hCoV-19/Colombia/VAC-SAD-40769679/2021	ncov	2021-10-16	South America	Colombia	Valle Del Cauca	Guadalajara De Buga	B.1.621	GH
+hCoV-19/Colombia/VAC-SAD-1034292410/2021	ncov	2021-10-06	South America	Colombia	Valle Del Cauca	Cali	AY.39	GK
+hCoV-19/Colombia/VAC-CSB-1193212846/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/CAL-SAD-1058142312/2021	ncov	2021-09-29	South America	Colombia	Caldas	Chinchina	B.1.621	GH
+hCoV-19/Colombia/CAU-CSB-34530808/2021	ncov	2021-10-01	South America	Colombia	Cauca	Popayan	B.1.621	GH
+hCoV-19/Colombia/VAC-SAD-38860396/2021	ncov	2021-10-02	South America	Colombia	Valle Del Cauca	Buga	B.1.621	GH
+hCoV-19/Colombia/VAC-I-1144051362/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/CAU-CSB-10306844/2021	ncov	2021-10-06	South America	Colombia	Cauca	Popayan	AY.25.1	GK
+hCoV-19/Colombia/QUI-SAD-24562684/2021	ncov	2021-10-13	South America	Colombia	Quindio	Armenia	AY.101	GK
+hCoV-19/Colombia/QUI-LADS-9772805/2021	ncov	2021-10-02	South America	Colombia	Quindio	Armenia	AY.43	GK
+hCoV-19/Colombia/QUI-SAD-41949489/2021	ncov	2021-10-04	South America	Colombia	Quindio	Armenia	AY.101	GK
+hCoV-19/Colombia/RIS-SAD-42099819/2021	ncov	2021-10-06	South America	Colombia	Risaralda	Dosquebradas	AY.14	GK
+hCoV-19/Colombia/VAC-CSB-1107845654/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/QUI-LADS-29220055/2021	ncov	2021-10-01	South America	Colombia	Quindio	Armenia	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-1144081029/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-SAD-1114249398/2021	ncov	2021-10-06	South America	Colombia	Valle Del Cauca	Palmira	AY.20	GK
+hCoV-19/Colombia/VAC-SAD-66905776/2021	ncov	2021-10-03	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-ASOCLINIC-94064962/2021	ncov	2021-09-26	South America	Colombia	Valle Del Cauca	Cali	AY.26	GK
+hCoV-19/Colombia/VAC-CSB-31877479/2021	ncov	2021-10-06	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/CAU-CSB-10296603/2021	ncov	2021-10-01	South America	Colombia	Cauca	Popayan	AY.118	GK
+hCoV-19/Colombia/VAC-SAD-1115070455/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Buga	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-1075244091/2021	ncov	2021-09-30	South America	Colombia	Valle Del Cauca	Cali	AY.125	GK
+hCoV-19/Colombia/VAC-SAD-79278158/2021	ncov	2021-10-14	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-SAD-29541365/2021	ncov	2021-10-01	South America	Colombia	Valle Del Cauca	Palmira	AY.122	GK
+hCoV-19/Colombia/VAC-SAD-24467326/2021	ncov	2021-10-09	South America	Colombia	Valle Del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-CSB-31263803/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-79552020/2021	ncov	2021-10-06	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-SAD-21870337/2021	ncov	2021-10-14	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-1005891052/2021	ncov	2021-09-30	South America	Colombia	Valle Del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-14620336/2021	ncov	2021-09-30	South America	Colombia	Valle Del Cauca	Palmira	AY.125	GK
+hCoV-19/Colombia/VAC-CSB-1114832308/2021	ncov	2021-10-06	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-1107085086/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-I-1144130777/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CS-1143869498/2021	ncov	2021-10-02	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-SAD-27357490/2021	ncov	2021-10-05	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-SAD-1107092688/2021	ncov	2021-10-03	South America	Colombia	Valle Del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-CACSB-6441938/2021	ncov	2021-10-06	South America	Colombia	Valle Del Cauca	Palmira	B	G
+hCoV-19/Colombia/VAC-CSB-74375218/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-SAD-1113640800/2021	ncov	2021-10-14	South America	Colombia	Valle Del Cauca	Palmira	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-25731046/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-1053812969/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Tulua-Valle	AY.43	GK
+hCoV-19/Colombia/VAC-CS-31276552/2021	ncov	2021-09-29	South America	Colombia	Valle Del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/RIS-SAD-107936102101981/2021	ncov	2021-10-15	South America	Colombia	Risaralda		B.1.617.2	GK
+hCoV-19/Colombia/QUI-LADS-24573263/2021	ncov	2021-09-29	South America	Colombia	Quindio	Armenia	AY.122	GK
+hCoV-19/Colombia/VAC-SAD-1109194621/2021	ncov	2021-10-09	South America	Colombia	Valle Del Cauca	Tulua	B.1.617.2	GK
+hCoV-19/Colombia/QUI-SAD-9806137/2021	ncov	2021-10-07	South America	Colombia	Quindio		B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-29325893/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-SAD-1144078994/2021	ncov	2021-10-08	South America	Colombia	Valle Del Cauca	Buga-Valle	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-1108568213/2021	ncov	2021-10-02	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-1090336086/2021	ncov	2021-10-02	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-17052987/2021	ncov	2021-10-02	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/CAU-CSB-1062310645/2021	ncov	2021-09-30	South America	Colombia	Cauca	Santander De Quilichao	B.1.617.2	GK
+hCoV-19/Colombia/VAC-UV-28934/2021	ncov	2021-10-16	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/CAU-CSB-34331842/2021	ncov	2021-10-05	South America	Colombia	Cauca	Popayan	B.1.617.2	GK
+hCoV-19/Colombia/VAC-SAD-1143872458/2021	ncov	2021-10-08	South America	Colombia	Valle Del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-CSB-16600641/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	O
+hCoV-19/Colombia/VAC-SAD-14622818/2021	ncov	2021-10-05	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-CSB-1130602608/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-1130634483/2021	ncov	2021-10-08	South America	Colombia	Valle Del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/QUI-SAD-1096035745/2021	ncov	2021-10-04	South America	Colombia	Quindio	Tebaida	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-1144048918/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-28793/2021	ncov	2021-10-04	South America	Colombia	Valle Del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-SAD-29500663/2021	ncov	2021-10-16	South America	Colombia	Valle Del Cauca	Florida	AY.25	GK
+hCoV-19/Colombia/CAU-CSB-1072991147/2021	ncov	2021-10-01	South America	Colombia	Valle Del Cauca	Popayan	B.1.621	GH
+hCoV-19/Colombia/VAC-CSB-1061436270/2021	ncov	2021-09-29	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-28769/2021	ncov	2021-08-14	South America	Colombia	Valle Del Cauca	Cali	AY.26	GK
+hCoV-19/Colombia/VAC-CSB-16798218/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-CSB-20130757/2021	ncov	2021-09-16	South America	Colombia	Valle Del Cauca	Cali	Unassigned	G
+hCoV-19/Colombia/VAC-CSB-31910067/2021	ncov	2021-10-02	South America	Colombia	Valle Del Cauca	Cali	Unassigned	G
+hCoV-19/Colombia/VAC-CSB-66705016/2021	ncov	2021-09-30	South America	Colombia	Valle Del Cauca	Cali	Unassigned	G
+hCoV-19/Colombia/VAC-CSB-1130604218/2021	ncov	2021-10-15	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-24310589/2021	ncov	2021-11-10	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-32119938/2021	ncov	2021-11-10	South America	Colombia	Valle Del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-CSB-26489352/2021	ncov	2021-10-15	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/CAU-CSB-1144087850/2021	ncov	2021-10-01	South America	Colombia	Cauca	Santander de Quilichao	AY.100	GK
+hCoV-19/Colombia/VAC-CSB-16288587/2021	ncov	2021-10-14	South America	Colombia	Valle del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-CSB-29650119/2021	ncov	2021-10-12	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-29038468/2021	ncov	2021-10-14	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-29110297/2021	ncov	2021-10-13	South America	Colombia	Valle del Cauca	Cali	AY.125	GK
+hCoV-19/Colombia/VAC-CSB-1107529090/2021	ncov	2021-10-13	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-1110283565/2021	ncov	2021-10-11	South America	Colombia	Valle del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-1059914110/2021	ncov	2021-10-12	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-16839918/2021	ncov	2021-10-07	South America	Colombia	Valle del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-CSB-1144142499/2021	ncov	2021-10-09	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-31919649/2021	ncov	2021-10-11	South America	Colombia	Valle del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-CSB-16843436/2021	ncov	2021-10-07	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-29128/2021	ncov	2021-11-04	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-UV-29053/2021	ncov	2021-10-17	South America	Colombia	Valle del Cauca	Cali	AY.42	GK
+hCoV-19/Colombia/VAC-UV-29079/2021	ncov	2021-11-01	South America	Colombia	Valle del Cauca	Cali	AY.122.4	GK
+hCoV-19/Colombia/VAC-CSB-1110293165/2021	ncov	2021-10-11	South America	Colombia	Valle del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-CSB-1002806095/2021	ncov	2021-10-18	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-UV-29092/2021	ncov	2021-11-03	South America	Colombia	Valle del Cauca	Cali	AY.9.2	GK
+hCoV-19/Colombia/VAC-UV-29104/2021	ncov	2021-10-31	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-31967866/2021	ncov	2021-10-13	South America	Colombia	Valle del Cauca	Cali	AY.99	GK
+hCoV-19/Colombia/VAC-CSB-38684720/2021	ncov	2021-10-19	South America	Colombia	Valle del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-CSB-20308120/2021	ncov	2021-10-15	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-25561657/2021	ncov	2021-10-17	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-CSB-1112063895/2021	ncov	2021-10-17	South America	Colombia	Valle del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-1107867850/2021	ncov	2021-10-15	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-26427872/2021	ncov	2021-10-15	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-CSB-4902834/2021	ncov	2021-10-15	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-CSB-29857886/2021	ncov	2021-10-11	South America	Colombia	Valle del Cauca	Cali	AY.42	GK
+hCoV-19/Colombia/VAC-CSB-1144206737/2021	ncov	2021-10-13	South America	Colombia	Valle del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/CAU-CSB-1058936199/2021	ncov	2021-10-13	South America	Colombia	Cauca	Popayan	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-94394902/2021	ncov	2021-10-14	South America	Colombia	Valle del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-1144187629/2021	ncov	2021-10-11	South America	Colombia	Valle del Cauca	Cali	B.1.621.2	G
+hCoV-19/Colombia/VAC-CSB-94298534/2021	ncov	2021-10-11	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-CSB-38558570/2021	ncov	2021-10-08	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-CSB-1232814098/2021	ncov	2021-10-11	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-CSB-29510965/2021	ncov	2021-10-08	South America	Colombia	Valle del Cauca	Cali	AY.112	GK
+hCoV-19/Colombia/VAC-CSB-14636940/2021	ncov	2021-10-13	South America	Colombia	Valle del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-31486933/2021	ncov	2021-10-12	South America	Colombia	Valle del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-CSB-7414467/2021	ncov	2021-10-12	South America	Colombia	Valle del Cauca	Cali	AY.125	GK
+hCoV-19/Colombia/VAC-CSB-38670765/2021	ncov	2021-10-12	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-CSB-29642952/2021	ncov	2021-10-13	South America	Colombia	Valle del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-SAD-1143855910/2021	ncov	2021-10-23	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-SAD-1087203598/2021	ncov	2021-10-23	South America	Colombia	Valle del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/RIS-SAD-1088040375/2021	ncov	2021-10-21	South America	Colombia	Risaralda	DOS QUEBRADAS	AY.39	GK
+hCoV-19/Colombia/QUI-SAD-1231691/2021	ncov	2021-10-18	South America	Colombia	Quindio	ARMENIA	AY.20	GK
+hCoV-19/Colombia/VAC-SAD-31985344/2021	ncov	2021-10-16	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-SAD-1143963318/2021	ncov	2021-10-23	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-SAD-205647/2021	ncov	2021-10-26	South America	Colombia	Valle del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-CSB-2852271/2021	ncov	2021-10-21	South America	Colombia	Valle del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-CSB-66949933/2021	ncov	2021-10-22	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-CSB-66847903/2021	ncov	2021-10-24	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-LADS-66999422/2021	ncov	2021-11-10	South America	Colombia	Valle del Cauca	Cali	B.1.621.2	GH
+hCoV-19/Colombia/VAC-CSB-17144582/2021	ncov	2021-10-23	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-CSB-1144059698/2021	ncov	2021-10-27	South America	Colombia	Valle del Cauca	Cali	B.1.621.2	GH
+hCoV-19/Colombia/VAC-CSB-2406112/2021	ncov	2021-10-27	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-31409426/2021	ncov	2021-10-28	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-LADS-10168204/2021	ncov	2021-10-22	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-LADS-1108567942/2021	ncov	2021-10-22	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-LADS-1232796464/2021	ncov	2021-10-22	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-LADS-29177567/2021	ncov	2021-10-25	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/RIS-LADS-149015226/2021	ncov	2021-10-25	South America	Colombia	Risaralda	PEREIRA	AY.44	GK
+hCoV-19/Colombia/RIS-LADS-1089636322/2021	ncov	2021-10-24	South America	Colombia	Risaralda	PEREIRA	AY.44	GK
+hCoV-19/Colombia/VAC-LADS-43843836/2021	ncov	2021-10-26	South America	Colombia	Valle del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-LADS-1109681498/2021	ncov	2021-10-27	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-LADS-1113518765/2021	ncov	2021-10-27	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/un-FVL-1112061662/2021	ncov	2021-10-21	South America	Colombia			AY.43	GK
+hCoV-19/Colombia/un-FVL-1107058662/2021	ncov	2021-10-29	South America	Colombia			AY.39	GK
+hCoV-19/Colombia/VAC-LCSS-TI1113633528/2021	ncov	2021-11-01	South America	Colombia	Valle del Cauca	PALMIRA	AY.44	GK
+hCoV-19/Colombia/VAC-LCSS-1144195783/2021	ncov	2021-11-02	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/CAL-LCSS-10288689/2021	ncov	2021-11-08	South America	Colombia	CALDAS		AY.122	GK
+hCoV-19/Colombia/VAC-LCSS-29085260/2021	ncov	2021-11-01	South America	Colombia	Valle del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-LCSS-1006100705/2021	ncov	2021-10-28	South America	Colombia	Valle del Cauca		B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-83183764/2021	ncov	2021-11-06	South America	Colombia	Valle del Cauca	JAMUNDI	AY.43	GK
+hCoV-19/Colombia/VAC-CSB-16617042/2021	ncov	2021-11-05	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-CSB-6287021/2021	ncov	2021-11-07	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-29056798/2021	ncov	2021-11-08	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-LADS-16263841/2021	ncov	2021-11-05	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-LADS-1107093954/2021	ncov	2021-11-06	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-LADS-31865158/2021	ncov	2021-11-05	South America	Colombia	Valle del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/QUI-LADS-79154399/2021	ncov	2021-11-05	South America	Colombia	Quindio	ARMENIA	AY.101	GK
+hCoV-19/Colombia/QUI-LADS-1092858290/2021	ncov	2021-11-10	South America	Colombia	Quindio	ARMENIA	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-94512833/2021	ncov	2021-11-08	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-21111341/2021	ncov	2021-10-15	South America	Colombia	Valle del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-29661718/2021	ncov	2021-10-15	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-UV-20030207/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/CAU-CSB-10303766/2021	ncov	2021-11-04	South America	Colombia	Cauca	POPAYAN	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-1130625935/2021	ncov	2021-10-15	South America	Colombia	Valle del Cauca	Cali	AY.39	GK
+hCoV-19/Colombia/VAC-SAD-24470819/2021	ncov	2021-10-24	South America	Colombia	Valle Del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-CSB-29222866/2021	ncov	2021-10-20	South America	Colombia	Valle del Cauca	Cali	B.1.621.2	GH
+hCoV-19/Colombia/VAC-UV-28991/2021	ncov	2021-10-22	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-29273/2021	ncov	2021-11-17	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-UV-28633/2021	ncov	2021-10-08	South America	Colombia	Valle del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-HUV-202108300490/2021	ncov	2021-08-30	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-I-66983005/2021	ncov	2021-09-10	South America	Colombia	Valle del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-UV-28392/2021	ncov	2021-09-29	South America	Colombia	Valle del Cauca	Cali	AY.26	GK
+hCoV-19/Colombia/VAC-UV-28584/2021	ncov	2021-10-06	South America	Colombia	Valle del Cauca	Palmira	B.1.621.2	GH
+hCoV-19/Colombia/VAC-HUV-202109030479/2021	ncov	2021-09-03	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20030007/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-UV-29287/2021	ncov	2021-11-17	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-29112/2021	ncov	2021-11-02	South America	Colombia	Valle del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-UV-29157/2021	ncov	2021-11-07	South America	Colombia	Valle del Cauca	Cali	AY.125	GK
+hCoV-19/Colombia/VAC-LADS-1105372714/2021	ncov	2021-11-08	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-UV-29403/2021	ncov	2021-11-24	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-UV-20027726/2021	ncov	2021-09-01	South America	Colombia	Valle del Cauca	Cali	AY.113	GK
+hCoV-19/Colombia/VAC-LADS-12907447/2021	ncov	2021-11-02	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-20027546/2021	ncov	2021-08-25	South America	Colombia	Valle del Cauca	Cali	P.1	GR
+hCoV-19/Colombia/VAC-UV-20027264/2021	ncov	2021-08-16	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20027452/2021	ncov	2021-08-22	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20027480/2021	ncov	2021-08-24	South America	Colombia	Valle del Cauca	Buenaventura	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20027516/2021	ncov	2021-08-24	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20027619/2021	ncov	2021-08-30	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20025918/2021	ncov	2021-06-30	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20025921/2021	ncov	2021-06-30	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20025938/2021	ncov	2021-06-30	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20025944/2021	ncov	2021-06-30	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026390/2021	ncov	2021-07-13	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/VAC-UV-20026397/2021	ncov	2021-07-13	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/VAC-UV-20026403/2021	ncov	2021-07-14	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/VAC-UV-20026423/2021	ncov	2021-07-14	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026515/2021	ncov	2021-07-17	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026546/2021	ncov	2021-07-19	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026620/2021	ncov	2021-07-21	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-UV-20026671/2021	ncov	2021-07-23	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-LCSS-21081802647-86/2021	ncov	2021-08-18	South America	Colombia	Valle del Cauca	Jamundi	AY.25.1	GK
+hCoV-19/Colombia/VAC-HUV-202108010198.30/2021	ncov	2021-07-31	South America	Colombia	Valle del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-SAD-1116374722/2021	ncov	2021-10-25	South America	Colombia	Valle Del Cauca	Yumbo	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-16539102/2021	ncov	2021-11-11	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-UV-20030208/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-LCSS-1144039197/2021	ncov	2021-11-08	South America	Colombia	Valle del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-UV-20029925/2021	ncov	2021-12-22	South America	Colombia	Valle del Cauca	Cali	AY.42	GK
+hCoV-19/Colombia/un-FVL-31205935/2021	ncov	2021-01-01	South America	Colombia			AY.42	GK
+hCoV-19/Colombia/VAC-LCSS-31137798/2021	ncov	2021-11-05	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-29679/2021	ncov	2021-12-09	South America	Colombia	Valle Del Cauca	Cali	AY.125	GK
+hCoV-19/Colombia/VAC-CSB-29115566/2021	ncov	2021-10-16	South America	Colombia	Valle del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-UV-29099/2021	ncov	2021-11-02	South America	Colombia	Valle del Cauca	Cali	AY.125	GK
+hCoV-19/Colombia/VAC-CSB-1130613441/2021	ncov	2021-10-14	South America	Colombia	Valle del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-UV-29134/2021	ncov	2021-10-28	South America	Colombia	Valle del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/COV_24623/2021	ncov	2021-05-11	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/VAC-CSB-1144071279/2021	ncov	2021-10-17	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-SAD-14994876/2021	ncov	2021-10-22	South America	Colombia	Valle Del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-CSB-1112474076/2021	ncov	2021-11-29	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-20030122/2021	ncov	2021-12-29	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-UV-20030250/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/un-FVL-1151966406/2021	ncov	2021-10-27	South America	Colombia			AY.122	GK
+hCoV-19/Colombia/VAC-UV-20030626/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-1109929478/2021	ncov	2021-10-14	South America	Colombia	Valle del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-LADS-1130596309/2021	ncov	2021-10-25	South America	Colombia	Valle del Cauca	Cali	AY.26	GK
+hCoV-19/Colombia/VAC-CSB-52993618/2021	ncov	2021-12-31	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030187/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1143878073/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1.11	GRA
+hCoV-19/Colombia/VAC-SURA-1144156105/2022	ncov	2022-01-27	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1062282996/2021	ncov	2021-12-31	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29223790/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-CSB-6068819/2022	ncov	2022-01-08	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144031565/2022	ncov	2022-01-12	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-31906066/2021	ncov	2021-12-31	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-29177769/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-XDD679382/2022	ncov	2022-02-18	South America	Colombia	Valle del Cauca	Jamundi	BA.1.15.3	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1107052239/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Palmira	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20029992/2021	ncov	2021-12-27	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31144/2022	ncov	2022-02-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-FO550577/2022	ncov	2022-02-04	South America	Colombia	Valle del Cauca	Buenaventura	BA.1.14	GRA
+hCoV-19/Colombia/VAC-UV-20030498/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Yumbo	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16340542/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV_31147/2022	ncov	2022-02-05	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-f48378474/2022	ncov	2022-03-13	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31091/2022	ncov	2022-01-31	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030503/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Florida	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1107839707/2022	ncov	2022-01-01	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-CE25713766-K/2022	ncov	2022-02-12	South America	Colombia	Valle del Cauca	Palmira	BA.1.15	GRA
+hCoV-19/Colombia/VAC-CSB-31578146/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca	Cali	BA.1.17	GRA
+hCoV-19/Colombia/VAC-SYNLAB-A4485053/2022	ncov	2022-02-04	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030517/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-UV-20030534/2022	ncov	2022-01-06	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31093/2022	ncov	2022-02-01	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1005892659/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-SYNLAB-2570340/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Guacari	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030165/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-30925/2022	ncov	2022-01-20	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-CSB-16362635/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-IDIME-16761309/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV-20030136/2021	ncov	2021-12-30	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/CAL-SYNLAB-6049588/2022	ncov	2022-01-11	South America	Colombia	Caldas	Manizales	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-31975163/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1005892465/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-UV_31119/2022	ncov	2022-02-02	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-P17749335/2022	ncov	2022-02-02	South America	Colombia	Valle del Cauca		BA.1	GRA
+hCoV-19/Colombia/VAC-IDIME-1110541666/2022	ncov	2022-01-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-6061162/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-66828495/2022	ncov	2022-01-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-UV_31105/2022	ncov	2022-02-01	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-38956143/2022	ncov	2022-01-10	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-LADS-31919773/2021	ncov	2021-11-12	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-LADS-31936104/2021	ncov	2021-11-04	South America	Colombia	Valle del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-LADS-38730250/2021	ncov	2021-11-07	South America	Colombia	Valle del Cauca	Cali	B.1.621.2	GH
+hCoV-19/Colombia/VAC-LCSS-94063220/2021	ncov	2021-11-02	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-52821416/2021	ncov	2021-10-17	South America	Colombia	Valle del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-UV-29118/2021	ncov	2021-10-30	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-CSB-1143840114/2021	ncov	2021-10-27	South America	Colombia	Valle del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-UV-29355/2021	ncov	2021-11-22	South America	Colombia	Valle Del Cauca	Cali	AY.44	GK
+hCoV-19/Colombia/VAC-CSB-1144037432/2021	ncov	2021-11-12	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-1107039571/2021	ncov	2021-10-17	South America	Colombia	Valle del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-1130607639/2021	ncov	2021-11-12	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-29094/2021	ncov	2021-10-31	South America	Colombia	Valle del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-29352/2021	ncov	2021-11-22	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-SAD-1113660306/2021	ncov	2021-10-22	South America	Colombia	Valle Del Cauca	Palmira	B.1.617.2	GK
+hCoV-19/Colombia/QUI-SAD-177080348/2021	ncov	2021-07-30	South America	Colombia	Quindio	Quimbaya	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-21082702579/2021	ncov	2021-08-27	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-21081802148/2021	ncov	2021-08-18	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/ANT-CS-21081702014/2021	ncov	2021-08-17	South America	Colombia	Antioquia	MEDELLIN	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-21081402111/2021	ncov	2021-08-15	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/VAC-SAD-248010574/2021	ncov	2021-08-02	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/QUI-CS-21082101335/2021	ncov	2021-08-22	South America	Colombia	Quindio	ARMENIA	B.1.621	GH
+hCoV-19/Colombia/VAC-CIGQS-8020923/2021	ncov	2021-08-04	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/VAC-CIGQS-7160616/2021	ncov	2021-07-17	South America	Colombia	Valle del Cauca	CALI	P.1	GR
+hCoV-19/Colombia/VAC-SAD-134240147/2021	ncov	2021-07-31	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/VAC-SAD-205005385/2021	ncov	2021-08-02	South America	Colombia	Valle del Cauca	PALMIRA	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-21081202011/2021	ncov	2021-08-13	South America	Colombia	Valle del Cauca	ARMENIA	B.1.621	GH
+hCoV-19/Colombia/VAC-CIGQS-7178245/2021	ncov	2021-07-18	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/VAC-CIGQS-7150142/2021	ncov	2021-07-16	South America	Colombia	Valle del Cauca	CALI	B.1.621	GH
+hCoV-19/Colombia/VAC-CIGQS-7210733/2021	ncov	2021-07-22	South America	Colombia	Valle del Cauca	YUMBO	B.1.621.1	GH
+hCoV-19/Colombia/VAC-SAD-134240358/2021	ncov	2021-08-01	South America	Colombia	Valle del Cauca	JAMUNDI	B.1.621	GH
+hCoV-19/Colombia/ANT-CS-21081202253/2021	ncov	2021-08-12	South America	Colombia	Antioquia	MEDELLIN	B.1.621	GH
+hCoV-19/Colombia/VAC-CS-21081001970/2021	ncov	2021-08-11	South America	Colombia	Valle del Cauca	PALMIRA	B.1.621	GH
+hCoV-19/Colombia/VAC-CIGQS-7170794/2021	ncov	2021-07-17	South America	Colombia	Valle del Cauca	Jamundi	B.1.621.1	GH
+hCoV-19/Colombia/ANT-CS-21080902304/2021	ncov	2021-08-09	South America	Colombia	Antioquia	MEDELLIN	B.1	GH
+hCoV-19/Colombia/VAC-CSN-41478049/2021	ncov	2021-12-01	South America	Colombia	Valle Del Cauca	Cali	AY.125	GK
+hCoV-19/Colombia/RIS-SAD-1004734897/2021	ncov	2021-10-19	South America	Colombia	Risaralda	DOS QUEBRADAS	AY.25.1	GK
+hCoV-19/Colombia/VAC-UV-20025962/2021	ncov	2021-07-01	South America	Colombia	Valle del Cauca	Cali	C.37	GR
+hCoV-19/Colombia/VAC-UV-20026550/2021	ncov	2021-07-19	South America	Colombia	Valle del Cauca	Cali	P.1	GR
+hCoV-19/Colombia/VAC-UV-20029932/2021	ncov	2021-12-22	South America	Colombia	Valle del Cauca	Cali	AY.42	GK
+hCoV-19/Colombia/VAC-COV_24589/2021	ncov	2021-05-10	South America	Colombia	Valle del Cauca	Cali	P.1	GR
+hCoV-19/Colombia/VAC-UV-20030188/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/QUI-SAD-1094880078/2021	ncov	2021-10-03	South America	Colombia	Quindio	Tebaida	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-1144068701/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-UV-28861/2021	ncov	2021-10-14	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-CSB-1143997679/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-1107092012/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.100	GK
+hCoV-19/Colombia/VAC-SAD-76044086/2021	ncov	2021-10-16	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-SAD-38558573/2021	ncov	2021-10-05	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/QUI-SAD-25057232/2021	ncov	2021-10-05	South America	Colombia	Quindio	Quimbaya	B.1.617.2	GK
+hCoV-19/Colombia/VAC-SAD-94481631/2021	ncov	2021-10-08	South America	Colombia	Valle Del Cauca	Guadalajara De Buga	AY.100	GK
+hCoV-19/Colombia/VAC-SAD-29124736/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Yumbo	B.1.617.2	GK
+hCoV-19/Colombia/VAC-ASOCLINIC-66840464/2021	ncov	2021-09-16	South America	Colombia	Valle Del Cauca	Cali	AY.47	GK
+hCoV-19/Colombia/VAC-CSB-94403475/2021	ncov	2021-09-29	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-SAD-1113682480/2021	ncov	2021-10-15	South America	Colombia	Valle Del Cauca	Palmira	AY.100	GK
+hCoV-19/Colombia/VAC-CSB-1127950356/2021	ncov	2021-10-01	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CS-31290487/2021	ncov	2021-10-01	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-LADS-1110050843/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-SAD-1110288954/2021	ncov	2021-10-06	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-SAD-36088014/2021	ncov	2021-10-14	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-SAD-1107860160/2021	ncov	2021-10-16	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-1112482611/2021	ncov	2021-09-30	South America	Colombia	Valle Del Cauca	Jamundi	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-1109122160/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-SAD-94269954/2021	ncov	2021-10-05	South America	Colombia	Valle Del Cauca	Dagua	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-94494063/2021	ncov	2021-10-01	South America	Colombia	Valle Del Cauca	Cali	AY.26	GK
+hCoV-19/Colombia/VAC-CSB-66988120/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	AY.9.2	GK
+hCoV-19/Colombia/VAC-CSB-1151950163/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.125	GK
+hCoV-19/Colombia/VAC-CSB-66820332/2021	ncov	2021-10-05	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/VAC-CSB-46450217/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.122	GK
+hCoV-19/Colombia/VAC-SAD-1150685935/2021	ncov	2021-10-06	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/NAR-SAD-1085272986/2021	ncov	2021-10-08	South America	Colombia	Nariño	Pasto	B.1.621	GH
+hCoV-19/Colombia/VAC-CSB-16696564/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.20	GK
+hCoV-19/Colombia/CAU-CSB-1013029799/2021	ncov	2021-10-06	South America	Colombia	Cauca	Popayan	AY.118	GK
+hCoV-19/Colombia/QUI-SAD-1094916092/2021	ncov	2021-10-14	South America	Colombia	Quindio	Armenia	AY.101	GK
+hCoV-19/Colombia/VAC-SAD-1116157442/2021	ncov	2021-10-15	South America	Colombia	Valle Del Cauca	Cali	AY.125	GK
+hCoV-19/Colombia/VAC-CSB-67027081/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.125	GK
+hCoV-19/Colombia/CAL-SAD-30303253/2021	ncov	2021-10-06	South America	Colombia	Caldas	Manizales	AY.103	GK
+hCoV-19/Colombia/VAC-CSB-1151956137/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-SAD-1143850305/2021	ncov	2021-10-06	South America	Colombia	Valle Del Cauca	Valle Del Cauca	B.1.621.2	GH
+hCoV-19/Colombia/VAC-CSB-94535923/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-CSB-26258449/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	AY.25	GK
+hCoV-19/Colombia/VAC-CSB-43257057/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Candelaria-Valle	AY.44	GK
+hCoV-19/Colombia/VAC-CSB-1111698711/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-LADS-14676420/2021	ncov	2021-09-27	South America	Colombia	Valle Del Cauca	Cali	B.1.621	GH
+hCoV-19/Colombia/VAC-CSB-94294149/2021	ncov	2021-09-30	South America	Colombia	Valle Del Cauca	Cali	B.1.621.2	GH
+hCoV-19/Colombia/VAC-CSB-16791598/2021	ncov	2021-10-07	South America	Colombia	Valle Del Cauca	Cali	B.1.621.2	GH
+hCoV-19/Colombia/VAC-SAD-41565413/2021	ncov	2021-10-16	South America	Colombia	Valle Del Cauca	Cali	B.1.621.2	GH
+hCoV-19/Colombia/VAC-I-38975009/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-CSB-1143998031/2021	ncov	2021-09-28	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-1144142053/2021	ncov	2021-10-06	South America	Colombia	Valle Del Cauca	Cali	AY.101	GK
+hCoV-19/Colombia/VAC-SAD-16941447/2021	ncov	2021-10-14	South America	Colombia	Valle Del Cauca	Cali	AY.43	GK
+hCoV-19/Colombia/VAC-UV-28819/2021	ncov	2021-10-09	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/QUI-LADS-1098308222/2021	ncov	2021-10-02	South America	Colombia	Valle Del Cauca	Armenia	AY.20	GK
+hCoV-19/Colombia/QUI-SAD-1096038292/2021	ncov	2021-10-02	South America	Colombia	Quindio	La Tebaida	AY.101	GK
+hCoV-19/Colombia/QUI-SAD-24441052/2021	ncov	2021-10-14	South America	Colombia	Quindio	Armenia	AY.101	GK
+hCoV-19/Colombia/QUI-SAD-9806208/2021	ncov	2021-10-08	South America	Colombia	Quindio		AY.101	GK
+hCoV-19/Colombia/PUT-SAD-1127079691/2021	ncov	2021-10-15	South America	Colombia	Putumayo	Villagarzon	AY.122	GK
+hCoV-19/Colombia/NAR-SAD-59176067/2021	ncov	2021-10-05	South America	Colombia	Nariño	Pasto	AY.101	GK
+hCoV-19/Colombia/CAU-CSB-1061699693/2021	ncov	2021-10-01	South America	Colombia	Cauca	Popayan	AY.101	GK
+hCoV-19/Colombia/VAC-UV-29686/2021	ncov	2021-12-09	South America	Colombia	Valle Del Cauca	Cali	AY.25.1	GK
+hCoV-19/Colombia/VAC-CSB-1107100313/2021	ncov	2021-11-08	South America	Colombia	Valle del Cauca	Cali	AY.122.4	GK
+hCoV-19/Colombia/VAC-SAD-2850122/2021	ncov	2021-10-13	South America	Colombia	Valle Del Cauca	Cali	B.1.621	G
+hCoV-19/Colombia/VAC-UV-28216/2021	ncov	2021-08-22	South America	Colombia	Valle del Cauca	Cali	B.1	GK
+hCoV-19/Colombia/VAC-UV-28734/2021	ncov	2021-10-08	South America	Colombia	Valle Del Cauca	Cali	B.1.617.2	GK
+hCoV-19/Colombia/VAC-LADS-31214452/2021	ncov	2021-10-01	South America	Colombia	Valle Del Cauca	Cali	B.1.621.2	GH
+hCoV-19/Colombia/VAC-SYNLAB-A4485049/2022	ncov	2022-03-04	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-66738840/2022	ncov	2022-03-12	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-6186770/2022	ncov	2022-02-01	South America	Colombia	Valle del Cauca	Buga	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-52959095/2022	ncov	2022-03-13	South America	Colombia	Valle del Cauca	Buga	Unassigned	GRA
+hCoV-19/Colombia/VAC-SYNLAB-34256053/2022	ncov	2022-02-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31157570/2022	ncov	2022-03-08	South America	Colombia	Valle del Cauca	Palmira	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-30276250/2022	ncov	2022-03-01	South America	Colombia	Valle del Cauca	Buga	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16493928/2022	ncov	2022-03-12	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16286330/2022	ncov	2022-03-18	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-142998397/2022	ncov	2022-03-13	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1144036069/2022	ncov	2022-03-26	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-11440004223/2022	ncov	2022-03-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1114894626/2022	ncov	2022-02-07	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1114814167/2022	ncov	2022-03-14	South America	Colombia	Valle del Cauca	Palmira	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1113528248/2022	ncov	2022-02-02	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1005832360/2022	ncov	2022-03-11	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-LCSS-66770358/2022	ncov	2022-02-23	South America	Colombia	Valle del Cauca	Palmira	BA.1.1	GRA
+hCoV-19/Colombia/VAC-LCSS-6349207/2022	ncov	2022-03-12	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LCSS-6285559/2022	ncov	2022-02-17	South America	Colombia	Valle del Cauca	Palmira	BA.1.1	GRA
+hCoV-19/Colombia/VAC-LCSS-31951742/2022	ncov	2022-02-25	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-LCSS-29067753/2022	ncov	2022-02-15	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-LCSS-29047218/2022	ncov	2022-02-09	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-LCSS-25135717/2022	ncov	2022-02-19	South America	Colombia	Valle del Cauca	Guacari	BA.1.1	GRA
+hCoV-19/Colombia/VAC-LCSS-24290604/2022	ncov	2022-03-20	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-LCSS-16586324/2022	ncov	2022-02-25	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1115075314/2022	ncov	2022-03-19	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1114320315/2022	ncov	2022-02-17	South America	Colombia	Valle del Cauca	Palmira	BA.1.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1113629801/2022	ncov	2022-02-23	South America	Colombia	Valle del Cauca	Palmira	BA.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1108256639/2022	ncov	2022-02-22	South America	Colombia	Valle del Cauca	Jamundi	BA.1.16	GRA
+hCoV-19/Colombia/VAC-LCSS-1094959244/2022	ncov	2022-02-11	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1006169680/2022	ncov	2022-02-25	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IDIME-38960653/2022	ncov	2022-02-20	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IDIME-31520806/2022	ncov	2022-02-15	South America	Colombia	Valle del Cauca	Jamundi	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IDIME-29001345/2022	ncov	2022-02-22	South America	Colombia	Valle del Cauca	Cali	BA.1.17	GRA
+hCoV-19/Colombia/VAC-IDIME-2627182/2022	ncov	2022-02-22	South America	Colombia	Valle del Cauca	Bugalagrande	BA.1.15	GRA
+hCoV-19/Colombia/VAC-IDIME-25059942/2022	ncov	2022-02-20	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IDIME-1143924504/2022	ncov	2022-02-21	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-IDIME-1143880149/2022	ncov	2022-02-19	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-80215049/2022	ncov	2022-03-02	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-66855827/2022	ncov	2022-02-17	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-38681786/2022	ncov	2022-03-12	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1109567649/2022	ncov	2022-02-21	South America	Colombia	Valle del Cauca	Jamundi	BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-10100210/2022	ncov	2022-02-20	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-94538010/2022	ncov	2022-03-17	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-94322547/2022	ncov	2022-02-23	South America	Colombia	Valle del Cauca	Jamundi	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-66823825/2022	ncov	2022-03-14	South America	Colombia	Valle del Cauca	Andalucia	BA.1.15	GRA
+hCoV-19/Colombia/VAC-CSB-66823212/2022	ncov	2022-03-02	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-52916636/2022	ncov	2022-02-23	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-38985265/2022	ncov	2022-02-25	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-34540196/2022	ncov	2022-03-07	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-CSB-29178990/2022	ncov	2022-03-17	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-CSB-29087708/2022	ncov	2022-02-24	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-16648097/2022	ncov	2022-03-14	South America	Colombia	Valle del Cauca	Cali	BA.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144203359/2022	ncov	2022-02-28	South America	Colombia	Valle del Cauca	Cali	BA.1.15	GRA
+hCoV-19/Colombia/VAC-CSB-1144091266/2022	ncov	2022-02-23	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-CSB-1121832990/2022	ncov	2022-03-16	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-1087192105/2022	ncov	2022-03-03	South America	Colombia	Valle del Cauca	Palmira	BA.1.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-27087410/2022	ncov	2022-02-04	South America	Colombia	Narino	Pasto	BA.1.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-1085258653/2022	ncov	2022-02-02	South America	Colombia	Narino	Pasto	BA.1.1	GRA
+hCoV-19/Colombia/CAU-CSB-76310896/2022	ncov	2022-03-02	South America	Colombia	Cauca	Popayan	BA.1.1	GRA
+hCoV-19/Colombia/CAU-CSB-34330979/2022	ncov	2022-03-04	South America	Colombia	Cauca	Popayan	BA.1.1	GRA
+hCoV-19/Colombia/CAU-CSB-32554118/2022	ncov	2022-03-01	South America	Colombia	Cauca	Popayan	BA.1.1	GRA
+hCoV-19/Colombia/CAU-CSB-31946464/2022	ncov	2022-03-01	South America	Colombia	Cauca	Popayan	BA.1.1	GRA
+hCoV-19/Colombia/CAU-CSB-12202964/2022	ncov	2022-02-24	South America	Colombia	Cauca	Popayan	BA.1.1	GRA
+hCoV-19/Colombia/CAU-CSB-1061756813/2022	ncov	2022-03-14	South America	Colombia	Cauca	Popayan	BA.1.1	GRA
+hCoV-19/Colombia/CAU-CSB-1061753137/2022	ncov	2022-02-26	South America	Colombia	Cauca	Popayan	BA.1.1	GRA
+hCoV-19/Colombia/CAU-CSB-1061732937/2022	ncov	2022-02-26	South America	Colombia	Cauca	Popayan	BA.1.1	GRA
+hCoV-19/Colombia/CAL-SYNLAB-38880005/2022	ncov	2022-03-07	South America	Colombia	Caldas	Manizales	BA.1.1	GRA
+hCoV-19/Colombia/CAL-SYNLAB-24303773/2022	ncov	2022-02-03	South America	Colombia	Caldas	Manizales	BA.1.1	GRA
+hCoV-19/Colombia/CAL-SYNLAB-4344608/2022	ncov	2022-05-10	South America	Colombia	Caldas	Supia	BA.2	GRA
+hCoV-19/Colombia/CAU-CSB-1105363050/2022	ncov	2022-04-28	South America	Colombia	Cauca	Popayan	BA.2.9	GRA
+hCoV-19/Colombia/CUN-LCSS-1020822456/2022	ncov	2022-05-05	South America	Colombia	Cundinamarca	Bogota	BA.2.12.1	GRA
+hCoV-19/Colombia/CUN-LCSS-38941033/2022	ncov	2022-05-07	South America	Colombia	Cundinamarca	Bogota	BA.2.12.1	GRA
+hCoV-19/Colombia/CUN-LCSS-41669087/2022	ncov	2022-05-09	South America	Colombia	Cundinamarca	Bogota	BA.2	GRA
+hCoV-19/Colombia/CUN-LCSS-57297451/2022	ncov	2022-05-16	South America	Colombia	Cundinamarca	Bogota	BA.2	GRA
+hCoV-19/Colombia/RIS-SYNLAB-1004995716/2022	ncov	2022-05-10	South America	Colombia	Risaralda	Santa Rosa	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-1144069999/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1144174643/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1117517012/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-16748029/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-66858850/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1116380182/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.15	GRA
+hCoV-19/Colombia/VAC-FVL-10480035/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-31710971/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1002839789/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.15	GRA
+hCoV-19/Colombia/VAC-FVL-1006990139/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1021632581/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.15	GRA
+hCoV-19/Colombia/VAC-FVL-60406095/2022	ncov	2022-01-01	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1109548690/2022	ncov	2022-01-02	South America	Colombia	Valle del Cauca		BA.1	GRA
+hCoV-19/Colombia/VAC-FVL-1109558132/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-66904779/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1	GRA
+hCoV-19/Colombia/VAC-FVL-1083880068/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1	GRA
+hCoV-19/Colombia/VAC-FVL-1144095444/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-16694566/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.15	GRA
+hCoV-19/Colombia/VAC-FVL-1144074394/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.15	GRA
+hCoV-19/Colombia/VAC-FVL-38462442/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca		BA.1	GRA
+hCoV-19/Colombia/VAC-FVL-66813752/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca		BA.1	GRA
+hCoV-19/Colombia/VAC-FVL-1151954214/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca		BA.1	GRA
+hCoV-19/Colombia/VAC-FVL-1130635381/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-52853403/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1193441573/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca		BA.1	GRA
+hCoV-19/Colombia/VAC-FVL-29363464/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca		BA.1.15.1	GRA
+hCoV-19/Colombia/VAC-FVL-16540112/2022	ncov	2022-01-04	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-38945073/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1109553437/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1130599535/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1144033862/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-94418867/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-66838792/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.15	GRA
+hCoV-19/Colombia/VAC-FVL-1114827981/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.15	GRA
+hCoV-19/Colombia/VAC-FVL-1143958784/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-94534435/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1109557115/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1.1	GRA
+hCoV-19/Colombia/VAC-FVL-1232815091/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca		BA.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29278744/2022	ncov	2022-04-29	South America	Colombia	Valle del Cauca	Buga	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-38872851/2022	ncov	2022-05-02	South America	Colombia	Valle del Cauca	Buga	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1115071599/2022	ncov	2022-05-02	South America	Colombia	Valle del Cauca	Buga	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16368790/2022	ncov	2022-05-02	South America	Colombia	Valle del Cauca	Buga	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-529947806/2022	ncov	2022-05-02	South America	Colombia	Valle del Cauca	Buga	BA.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-38554456/2022	ncov	2022-05-06	South America	Colombia	Valle del Cauca	Buga	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29278558/2022	ncov	2022-05-10	South America	Colombia	Valle del Cauca	Buga	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1006433566/2022	ncov	2022-05-12	South America	Colombia	Valle del Cauca	Buga	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-42164086/2022	ncov	2022-05-04	South America	Colombia	Valle del Cauca	Cali	BA.2.23	GRA
+hCoV-19/Colombia/VAC-SYNLAB-583991437/2022	ncov	2022-05-07	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-UV-31964/2022	ncov	2022-05-02	South America	Colombia	Valle del Cauca	Cali	BA.2.36	GRA
+hCoV-19/Colombia/VAC-FVL-52054185/2022	ncov	2022-05-05	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-6072983/2022	ncov	2022-05-10	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-66948288/2022	ncov	2022-05-10	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-19133326/2022	ncov	2022-05-10	South America	Colombia	Valle del Cauca	Cali	BA.2.3.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31288894/2022	ncov	2022-05-10	South America	Colombia	Valle del Cauca	Cali	BA.2.3.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29738987/2022	ncov	2022-05-12	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1193303495/2022	ncov	2022-05-12	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-LCSS-38940692/2022	ncov	2022-05-03	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-LCSS-79343931/2022	ncov	2022-05-04	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LCSS-66768405/2022	ncov	2022-05-04	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LCSS-94416294/2022	ncov	2022-05-16	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-LCSS-38948047/2022	ncov	2022-05-16	South America	Colombia	Valle del Cauca	Cali	BA.2.3	GRA
+hCoV-19/Colombia/VAC-LCSS-29081544/2022	ncov	2022-05-17	South America	Colombia	Valle del Cauca	Cali	BA.2.3	GRA
+hCoV-19/Colombia/VAC-FVL-67045276/2022	ncov	2022-01-05	South America	Colombia	Valle del Cauca	Cali	BA.1	GRA
+hCoV-19/Colombia/VAC-LCSS-31948886/2022	ncov	2022-05-02	South America	Colombia	Valle del Cauca	Jamundi	BA.2	GRA
+hCoV-19/Colombia/VAC-LCSS-94534722/2022	ncov	2022-05-14	South America	Colombia	Valle del Cauca	Jamundi	XAM	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16237377/2022	ncov	2022-05-07	South America	Colombia	Valle del Cauca	Tulua	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1116131486/2022	ncov	2022-05-20	South America	Colombia	Valle del Cauca	Tulua	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1007522266/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Palmira	BA.2	GRA
+hCoV-19/Colombia/VAC-SDM-66774555/2022	ncov	2022-05-02	South America	Colombia	Valle del Cauca	Palmira	BA.2	GRA
+hCoV-19/Colombia/VAC-LCSS-1113657013/2022	ncov	2022-05-19	South America	Colombia	Valle del Cauca	Palmira	BA.2	GRA
+hCoV-19/Colombia/VAC-SDM-1126001185/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Palmira	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-LCSS-31474936/2022	ncov	2022-05-17	South America	Colombia	Valle del Cauca	Jamundi	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1113671651/2022	ncov	2022-05-16	South America	Colombia	Valle del Cauca	Jamundi	BA.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-41948044/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-38977251/2022	ncov	2022-05-17	South America	Colombia	Valle del Cauca	Cali	BA.2.3	GRA
+hCoV-19/Colombia/VAC-FVL-94543284/2022	ncov	2022-05-12	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-FVL-31222854/2022	ncov	2022-05-14	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-31958632/2022	ncov	2022-05-16	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-FVL-12971898/2022	ncov	2022-05-16	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-1061776174/2022	ncov	2022-05-17	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-FVL-38600148/2022	ncov	2022-05-17	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-1006258530/2022	ncov	2022-05-17	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-1144192830/2022	ncov	2022-05-17	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-1143848969/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-94411081/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-6135820/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-1151966359/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-31840598/2022	ncov	2022-05-03	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-91238409/2022	ncov	2022-05-03	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-98145378/2022	ncov	2022-05-04	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-505984997/2022	ncov	2022-05-04	South America	Colombia	Valle del Cauca	Cali	BA.2.23	GRA
+hCoV-19/Colombia/VAC-CSN-79419409/2022	ncov	2022-05-10	South America	Colombia	Valle del Cauca	Cali	BA.2.3	GRA
+hCoV-19/Colombia/VAC-LCSS-29072347/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2.3	GRA
+hCoV-19/Colombia/VAC-LCSS-1144162241/2022	ncov	2022-05-19	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LCSS-1121948789/2022	ncov	2022-05-19	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LCSS-1144042485/2022	ncov	2022-05-19	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LCSS-16820688/2022	ncov	2022-05-21	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LCSS-29869841/2022	ncov	2022-05-23	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-SDM-38986394/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-FVL-52212138/2022	ncov	2022-05-19	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-66860955/2022	ncov	2022-05-19	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-1075221257/2022	ncov	2022-05-20	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-67031447/2022	ncov	2022-05-21	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-1130586451/2022	ncov	2022-05-23	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-24341885/2022	ncov	2022-05-23	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-1144135653/2022	ncov	2022-05-23	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-FVL-1114888414/2022	ncov	2022-05-24	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-FVL-31569408/2022	ncov	2022-05-25	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-FVL-1107047067/2022	ncov	2022-05-25	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-1107064162/2022	ncov	2022-05-25	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-FVL-42128180/2022	ncov	2022-05-25	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-FVL-80852272/2022	ncov	2022-05-25	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-FVL-1144032443/2022	ncov	2022-05-24	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-FVL-1130619003/2022	ncov	2022-05-25	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29181641/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-4483442/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-66919340/2022	ncov	2022-05-21	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-CSB-18522536/2022	ncov	2022-05-12	South America	Colombia	Valle del Cauca	Cali	BA.2.65	GRA
+hCoV-19/Colombia/VAC-CSB-94396673/2022	ncov	2022-05-12	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-1007489224/2022	ncov	2022-05-12	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-16725739/2022	ncov	2022-05-13	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-35601706/2022	ncov	2022-05-16	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-31881963/2022	ncov	2022-05-16	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-94315389/2022	ncov	2022-05-17	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-1143842847/2022	ncov	2022-05-16	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-CSB-31999015/2022	ncov	2022-05-16	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-29650006/2022	ncov	2022-05-17	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-501109/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2.9.7	GRA
+hCoV-19/Colombia/VAC-CSB-6379693/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-10248390/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-31954191/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-14430983/2022	ncov	2022-05-17	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-31938057/2022	ncov	2022-05-19	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-1144186929/2022	ncov	2022-05-19	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-76317631/2022	ncov	2022-05-17	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-76306047/2022	ncov	2022-05-20	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSN-42143123/2022	ncov	2022-05-25	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSN-66784810/2022	ncov	2022-05-18	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1115077316/2022	ncov	2022-05-03	South America	Colombia	Valle del Cauca	Buga	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29277191/2022	ncov	2022-05-14	South America	Colombia	Valle del Cauca	Buga	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-38856566/2022	ncov	2022-05-13	South America	Colombia	Valle del Cauca	Buga	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29809239/2022	ncov	2022-05-21	South America	Colombia	Valle del Cauca	Buga	BA.2	GRA
+hCoV-19/Colombia/VAC-FVL-41572046/2022	ncov	2022-05-13	South America	Colombia	Valle del Cauca		BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-FVL-19172523/2022	ncov	2022-05-13	South America	Colombia	Valle del Cauca		BA.2.12.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-10539152/2022	ncov	2022-05-18	South America	Colombia	Narino	Pasto	BA.2.12.1	GRA
+hCoV-19/Colombia/BOL-FVL-1121865677/2022	ncov	2022-05-17	South America	Colombia	Bolivar	Cartagena	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-94527084/2022	ncov	2022-05-23	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-LDAB-1107527043/2022	ncov	2022-05-23	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-31990318/2022	ncov	2022-05-24	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-LDAB-38560409/2022	ncov	2022-05-25	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-LDAB-16770344/2022	ncov	2022-05-31	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-LDAB-16690525/2022	ncov	2022-06-01	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-14995292/2022	ncov	2022-06-02	South America	Colombia	Valle del Cauca	Cali	XAM	GRA
+hCoV-19/Colombia/VAC-LDAB-31214076/2022	ncov	2022-06-02	South America	Colombia	Valle del Cauca	Cali	BA.2.56	GRA
+hCoV-19/Colombia/VAC-LDAB-14932116/2022	ncov	2022-06-02	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-16940265/2022	ncov	2022-06-06	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-31520640/2022	ncov	2022-06-07	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-1107865198/2022	ncov	2022-06-07	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-LDAB-31271063/2022	ncov	2022-06-07	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-LDAB-38986901/2022	ncov	2022-06-07	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-31232194/2022	ncov	2022-06-08	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-16658585/2022	ncov	2022-06-10	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-66819573/2022	ncov	2022-06-10	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-1107518635/2022	ncov	2022-06-11	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-66850614/2022	ncov	2022-06-12	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-65809778/2022	ncov	2022-06-12	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/DC-CSB-4504650/2022	ncov	2022-06-26	South America	Colombia	Bogota	Bogota	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-66914009/2022	ncov	2022-06-13	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-CSB-1130678692/2022	ncov	2022-06-14	South America	Colombia	Valle del Cauca	Cali	BA.5.5	GRA
+hCoV-19/Colombia/VAC-CSB-31936670/2022	ncov	2022-06-13	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-14964784/2022	ncov	2022-06-14	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-CSB-67045627/2022	ncov	2022-06-14	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-67021226/2022	ncov	2022-06-13	South America	Colombia	Valle del Cauca	Cali	BA.5.5	GRA
+hCoV-19/Colombia/VAC-CSB-1007309511/2022	ncov	2022-06-13	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-38991446/2022	ncov	2022-06-14	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-16942396/2022	ncov	2022-06-14	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-66816742/2022	ncov	2022-06-14	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-1007673002/2022	ncov	2022-06-14	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/CAU-CSB-76297262/2022	ncov	2022-06-15	South America	Colombia	Cauca	Popayan	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-1064433656/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca		BA.2.12.1	GRA
+hCoV-19/Colombia/CAU-CSB-25284642/2022	ncov	2022-06-14	South America	Colombia	Cauca	Popayan	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-1108332230/2022	ncov	2022-06-14	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-66957496/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-7542487/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-16704901/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-55229147/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.5.5	GRA
+hCoV-19/Colombia/VAC-CSB-31570224/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/CAU-CSB-34330388/2022	ncov	2022-06-16	South America	Colombia	Cauca	Popayan	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-1143854049/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144046497/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.5.5	GRA
+hCoV-19/Colombia/VAC-CSB-31941337/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-25298300/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1005981182/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.5.5	GRA
+hCoV-19/Colombia/VAC-CSB-34617116/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1107056760/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	XAM	GRA
+hCoV-19/Colombia/VAC-CSB-25363870/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	XAM	GRA
+hCoV-19/Colombia/CAU-CSB-1061782462/2022	ncov	2022-06-17	South America	Colombia	Cauca	Popayan	BA.2	GRA
+hCoV-19/Colombia/CAU-CSB-34536574/2022	ncov	2022-06-16	South America	Colombia	Cauca	Popayan	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-31529920/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-24113771/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-27247112/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/CAU-CSB-30744737/2022	ncov	2022-06-17	South America	Colombia	Cauca	Popayan	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-16623036/2022	ncov	2022-06-17	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-1193555827/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-42070136/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-67025921/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-29560733/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.2.81	GRA
+hCoV-19/Colombia/VAC-CSB-94397811/2022	ncov	2022-06-18	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-1241441620/2022	ncov	2022-06-28	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-LDAB-31567734/2022	ncov	2022-06-20	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-29805651/2022	ncov	2022-06-29	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-29053028/2022	ncov	2022-06-28	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-38790378/2022	ncov	2022-07-05	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-2486516/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-31874530/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-19135709/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-25265139/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-94527879/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-29342690/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-LDAB-38971266/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-52536072/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-16679256/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BF.7	GRA
+hCoV-19/Colombia/VAC-LDAB-6091711/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-29942097/2022	ncov	2022-07-12	South America	Colombia	Valle del Cauca	Yumbo	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-35461680/2022	ncov	2022-07-13	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-LDAB-16695292/2022	ncov	2022-07-13	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-38223378/2022	ncov	2022-07-13	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-14205343/2022	ncov	2022-07-13	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-38956310/2022	ncov	2022-07-12	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-LDAB-26321840/2022	ncov	2022-07-12	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-21286469/2022	ncov	2022-07-13	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-29075375/2022	ncov	2022-07-13	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-38971350/2022	ncov	2022-07-13	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/CAL-SYNLAB-1054401990/2022	ncov	2022-06-18	South America	Colombia	Caldas	Manizales	BA.5.1.30	GRA
+hCoV-19/Colombia/CAU-CSB-1061758158/2022	ncov	2022-06-17	South America	Colombia	Cauca	Popayan	BA.2.12.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-1085258687/2022	ncov	2022-06-15	South America	Colombia	Narino	Pasto	BA.5.5	GRA
+hCoV-19/Colombia/NAR-SYNLAB-51806401/2022	ncov	2022-06-16	South America	Colombia	Narino	Pasto	BA.2.12.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-41917022/2022	ncov	2022-06-15	South America	Colombia	Narino	Pasto	BA.4.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-4242130/2022	ncov	2022-06-16	South America	Colombia	Narino	Pasto	BA.5.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1115074334/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Buga	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-79586217/2022	ncov	2022-06-12	South America	Colombia	Valle del Cauca	Cali	BE.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29400360/2022	ncov	2022-06-20	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16741850/2022	ncov	2022-06-13	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1006016002/2022	ncov	2022-06-14	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-38995883/2022	ncov	2022-06-13	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1144145922/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1007509243/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31988907/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-PA0680742/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-14836647/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	XAM	GRA
+hCoV-19/Colombia/VAC-SYNLAB-67001487/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1115076418/2022	ncov	2022-06-14	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-71756373/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-38551019/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31879918/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1143876654/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-28012000/2022	ncov	2022-06-17	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-38671220/2022	ncov	2022-06-17	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-14448615/2022	ncov	2022-06-18	South America	Colombia	Valle del Cauca	Cali	BA.5.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-94489872/2022	ncov	2022-06-18	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1006101085/2022	ncov	2022-06-18	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1130613529/2022	ncov	2022-06-17	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31842669/2022	ncov	2022-06-18	South America	Colombia	Valle del Cauca	Cali	BA.5.5	GRA
+hCoV-19/Colombia/VAC-SYNLAB-66856586/2022	ncov	2022-06-19	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29988830/2022	ncov	2022-06-19	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-5498918/2022	ncov	2022-06-19	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-2900360/2022	ncov	2022-06-13	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSN-1143834500/2022	ncov	2022-07-05	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSN-31171035/2022	ncov	2022-07-02	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSN-42031514/2022	ncov	2022-06-17	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LCSS-1106740738/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1232792509/2022	ncov	2022-06-18	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LCSS-41742719/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-LCSS-6075231/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1114823066/2022	ncov	2022-06-16	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SDM-34538206/2022	ncov	2022-06-13	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-SDM-1114826091/2022	ncov	2022-06-14	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SDM-16843238/2022	ncov	2022-06-11	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144077437/2022	ncov	2022-06-17	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-29285013/2022	ncov	2022-06-17	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1061818011/2022	ncov	2022-06-18	South America	Colombia	Valle del Cauca	Cali	BA.5.5	GRA
+hCoV-19/Colombia/VAC-CSB-1144044442/2022	ncov	2022-06-17	South America	Colombia	Valle del Cauca	Cali	BA.2.9	GRA
+hCoV-19/Colombia/VAC-CSB-1144131022/2022	ncov	2022-06-18	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-1061709363/2022	ncov	2022-06-18	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-38643975/2022	ncov	2022-06-11	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-LDAB-31138476/2022	ncov	2022-07-05	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-1007778357/2022	ncov	2022-07-05	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-66980722/2022	ncov	2022-07-06	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-16895812/2022	ncov	2022-07-06	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-1005785063/2022	ncov	2022-07-06	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-31266801/2022	ncov	2022-07-06	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-38970754/2022	ncov	2022-07-06	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-29010842/2022	ncov	2022-07-07	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-16448027/2022	ncov	2022-07-07	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-LDAB-17168088/2022	ncov	2022-07-07	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-LDAB-31234624/2022	ncov	2022-07-07	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-16728656/2022	ncov	2022-07-07	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-16731777/2022	ncov	2022-07-07	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-LDAB-41370255/2022	ncov	2022-07-08	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-31904944/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-16614221/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-38998085/2022	ncov	2022-07-09	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-52838481/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-16783344/2022	ncov	2022-07-11	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-4945887/2022	ncov	2022-07-12	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-16727521/2022	ncov	2022-07-12	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-6049420/2022	ncov	2022-07-14	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-14999744/2022	ncov	2022-07-14	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-1112054313/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LDAB-14951338/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-LDAB-30358995/2022	ncov	2022-07-21	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LDAB-1113634665/2022	ncov	2022-07-07	South America	Colombia	Valle del Cauca	El Cerrito	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LCSS-31981802/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Palmira	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-166568387/2022	ncov	2022-06-15	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-LDAB-66884333/2022	ncov	2022-07-06	South America	Colombia	Valle del Cauca	Cali	BA.4.1.8	GRA
+hCoV-19/Colombia/VAC-LDAB-31260355/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CACSB-1144083742/2022	ncov	2022-06-19	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/CAU-CACSB-25102040/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Jamundi	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CACSB-79352038/2022	ncov	2022-06-24	South America	Colombia	Valle del Cauca	Jamundi	BA.2	GRA
+hCoV-19/Colombia/VAC-CACSB-71391515/2022	ncov	2022-07-05	South America	Colombia	Valle del Cauca	Palmira	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CACSB-29662133/2022	ncov	2022-07-06	South America	Colombia	Valle del Cauca	Palmira	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CACSB-29341705/2022	ncov	2022-07-07	South America	Colombia	Valle del Cauca	Palmira	BA.5.5	GRA
+hCoV-19/Colombia/VAC-CACSB-29655398/2022	ncov	2022-07-08	South America	Colombia	Valle del Cauca	Palmira	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1130584392/2022	ncov	2022-07-15	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-1130619252/2022	ncov	2022-07-15	South America	Colombia	Valle del Cauca	Cali	BA.5	GRA
+hCoV-19/Colombia/VAC-CSB-67003630/2022	ncov	2022-07-15	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-10244399/2022	ncov	2022-07-15	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-14436275/2022	ncov	2022-07-15	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-34532573/2022	ncov	2022-07-16	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-31958342/2022	ncov	2022-07-17	South America	Colombia	Valle del Cauca	Cali	BA.5.1.25	GRA
+hCoV-19/Colombia/VAC-CSB-16917314/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-34596212/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-31307031/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-CSB-16581132/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1114901067/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-34322808/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1130640444/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-94525596/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.4.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-1045717771/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-31906874/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.2.75.3	GRA
+hCoV-19/Colombia/VAC-CSB-16718874/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-66905801/2022	ncov	2022-07-21	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144201752/2022	ncov	2022-07-21	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-10549742/2022	ncov	2022-07-21	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1107870367/2022	ncov	2022-07-17	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29685446/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Palmira	BA.5.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1144091476/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.5.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-45518746/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1115077659/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Buga	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1113646421/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-6181382/2022	ncov	2022-07-17	South America	Colombia	Valle del Cauca	Buga	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29033465/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16662423/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1002635351/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/NAR-SYNLAB-59821228/2022	ncov	2022-07-18	South America	Colombia	Narino	Pasto	BA.4.1	GRA
+hCoV-19/Colombia/CAL-SYNLAB-1036457102/2022	ncov	2022-07-18	South America	Colombia	Caldas	Manizales	BA.4.6	GRA
+hCoV-19/Colombia/CAL-SYNLAB-19281863/2022	ncov	2022-07-13	South America	Colombia	Caldas	Chinchina	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29652875/2022	ncov	2022-07-20	South America	Colombia	Valle del Cauca	Cali	BA.5.2.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1116157082/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Buga	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1112409637/2022	ncov	2022-07-20	South America	Colombia	Valle del Cauca	Buga	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-22105264/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Buga	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1115083145/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Buga	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-52193792/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Buga	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1112971053/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Buga	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1115071086/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Buga	BA.5.1.30	GRA
+hCoV-19/Colombia/VAC-SYNLAB-641750674/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.5.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1116161189/2022	ncov	2022-07-20	South America	Colombia	Valle del Cauca	Buga	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-94479010/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Buga	BA.4.4	GRA
+hCoV-19/Colombia/VAC-SYNLAB-38852157/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Buga	BA.5.6	GRA
+hCoV-19/Colombia/NAR-SYNLAB-59833268/2022	ncov	2022-07-19	South America	Colombia	Narino	Pasto	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSN-31583459/2022	ncov	2022-07-15	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSN-31268368/2022	ncov	2022-07-15	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-CSN-16257716/2022	ncov	2022-07-15	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-CSN-1112477079/2022	ncov	2022-07-16	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSN-31297765/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.5.1.10	GRA
+hCoV-19/Colombia/VAC-CSN-16258778/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSN-29466087/2022	ncov	2022-07-16	South America	Colombia	Valle del Cauca	Cartago	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSN-29700490/2022	ncov	2022-07-20	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSN-31485153/2022	ncov	2022-07-05	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-CSN-16551171/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LCSS-4303667/2022	ncov	2022-07-15	South America	Colombia	Valle del Cauca	Palmira	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LCSS-31216403/2022	ncov	2022-07-16	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-LCSS-38558542/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-LCSS-18492268/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Roldanillo	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LCSS-19497294/2022	ncov	2022-07-16	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1112069981/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/ANT-LCSS-30404156/2022	ncov	2022-07-19	South America	Colombia	Antioquia	Medellin	BA.5.1	GRA
+hCoV-19/Colombia/VAC-LCSS-66882239/2022	ncov	2022-07-20	South America	Colombia	Valle del Cauca	Cali	BA.5.5	GRA
+hCoV-19/Colombia/VAC-LCSS-16254626/2022	ncov	2022-07-17	South America	Colombia	Valle del Cauca	Palmira	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LCSS-29642048/2022	ncov	2022-07-18	South America	Colombia	Valle del Cauca	Palmira	BA.5.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1110306314/2022	ncov	2022-07-23	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LCSS-31294521/2022	ncov	2022-07-22	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-IDIME-94364870/2022	ncov	2022-07-20	South America	Colombia	Valle del Cauca	Tulua	BA.4.6	GRA
+hCoV-19/Colombia/VAC-IDIME-94381965/2022	ncov	2022-07-16	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-IDIME-31286671/2022	ncov	2022-07-16	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-IDIME-66875002/2022	ncov	2022-07-22	South America	Colombia	Valle del Cauca	Palmira	BA.5.1.30	GRA
+hCoV-19/Colombia/VAC-IDIME-10110735/2022	ncov	2022-07-22	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-IDIME-29109656/2022	ncov	2022-07-23	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-IDIME-1143932194/2022	ncov	2022-07-17	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-IDIME-66816203/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-IDIME-16763879/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.4.4	GRA
+hCoV-19/Colombia/VAC-IDIME-14990183/2022	ncov	2022-07-21	South America	Colombia	Valle del Cauca	Cali	BA.5	GRA
+hCoV-19/Colombia/VAC-CIDEIM-38964657/2022	ncov	2022-07-15	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-LDAB-16822797/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-LDAB-31877185/2022	ncov	2022-07-05	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-CSB-1144133296/2022	ncov	2022-07-28	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-79054670/2022	ncov	2022-08-09	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-CSB-29843985/2022	ncov	2022-07-28	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-29182428/2022	ncov	2022-07-28	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/CAU-CSB-10523742/2022	ncov	2022-07-28	South America	Colombia	Cauca	Popayan	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1111488798/2022	ncov	2022-07-28	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-14990400/2022	ncov	2022-07-28	South America	Colombia	Valle del Cauca	Cali	BF.5	GRA
+hCoV-19/Colombia/VAC-CSB-1118294015/2022	ncov	2022-07-27	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-31472021/2022	ncov	2022-07-28	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-CSB-1107097658/2022	ncov	2022-07-28	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-31280957/2022	ncov	2022-07-28	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-72194255/2022	ncov	2022-07-28	South America	Colombia	Valle del Cauca	Cali	BA.4.6.5	GRA
+hCoV-19/Colombia/VAC-CSB-31582347/2022	ncov	2022-07-28	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-1047465144/2022	ncov	2022-07-28	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1124851153/2022	ncov	2022-07-29	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-5335068/2022	ncov	2022-07-29	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1232818781/2022	ncov	2022-07-29	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144070054/2022	ncov	2022-07-29	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-10307746/2022	ncov	2022-07-29	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-38670415/2022	ncov	2022-07-30	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/CAU-CSB-10290741/2022	ncov	2022-07-29	South America	Colombia	Cauca	Popayan	BA.4.6	GRA
+hCoV-19/Colombia/CAU-CSB-76329245/2022	ncov	2022-07-29	South America	Colombia	Cauca	Popayan	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-CSB-48575535/2022	ncov	2022-07-30	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/CAU-CSB-34599250/2022	ncov	2022-07-30	South America	Colombia	Cauca	Quilichao	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-29352682/2022	ncov	2022-07-30	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-39151080/2022	ncov	2022-07-30	South America	Colombia	Valle del Cauca	Cali	BF.7	GRA
+hCoV-19/Colombia/VAC-CSB-13224501/2022	ncov	2022-07-30	South America	Colombia	Valle del Cauca	Cali	BF.7	GRA
+hCoV-19/Colombia/VAC-CSB-1107054106/2022	ncov	2022-07-31	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-17162220/2022	ncov	2022-07-31	South America	Colombia	Valle del Cauca	Cali	BE.1.1	GRA
+hCoV-19/Colombia/VAC-CSB-10519171/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-14800521/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-29477653/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/CAU-CSB-25292663/2022	ncov	2022-08-01	South America	Colombia	Cauca	Popayan	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1130655539/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-31294691/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-79795434/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cali	BA.5.2.1	GRA
+hCoV-19/Colombia/VAC-CSB-515832/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-CSB-31262254/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-CSB-1192915074/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-66836573/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cali	BA.5.1.25	GRA
+hCoV-19/Colombia/VAC-CSB-12751152/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1112165629/2022	ncov	2022-07-31	South America	Colombia	Valle del Cauca	Buga	BA.4.4	GRA
+hCoV-19/Colombia/VAC-SYNLAB-6185110/2022	ncov	2022-07-31	South America	Colombia	Valle del Cauca	Buga	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-6181192/2022	ncov	2022-07-31	South America	Colombia	Valle del Cauca	Buga	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-C9M0XWWYF/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/CAL-SYNLAB-24334278/2022	ncov	2022-08-01	South America	Colombia	Caldas	Manizales	BA.4.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-30744255/2022	ncov	2022-08-01	South America	Colombia	Narino	Pasto	BA.5.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-30702017/2022	ncov	2022-08-01	South America	Colombia	Narino	Pasto	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-18496433/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-66810265/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Jamundi	BA.4.6	GRA
+hCoV-19/Colombia/NAR-SYNLAB-1085261446/2022	ncov	2022-08-01	South America	Colombia	Narino	Pasto	BA.5.2.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-1085254792/2022	ncov	2022-08-02	South America	Colombia	Narino	Pasto	BA.5.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-4309860/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cartago	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1006306780/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Buga	BA.5.1.30	GRA
+hCoV-19/Colombia/RIS-SYNLAB-4452020/2022	ncov	2022-07-31	South America	Colombia	Risaralda	Santa Rosa de Cabal	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-25011715/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-94266854/2022	ncov	2022-08-03	South America	Colombia	Valle del Cauca	Buga	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-19094404/2022	ncov	2022-08-03	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31292985/2022	ncov	2022-08-03	South America	Colombia	Valle del Cauca	Cali	BA.5.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-24619914/2022	ncov	2022-08-03	South America	Colombia	Valle del Cauca	Jamundi	BA.4.1	GRA
+hCoV-19/Colombia/CAU-SYNLAB-14877694/2022	ncov	2022-08-04	South America	Colombia	Cauca	Popayan	BA.5.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1136880141/2022	ncov	2022-08-05	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1113645618/2022	ncov	2022-08-05	South America	Colombia	Valle del Cauca	Palmira	BA.5.2.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16467747/2022	ncov	2022-08-05	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-LP8532627/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cali	BA.5.2	GRA
+hCoV-19/Colombia/RIS-SYNLAB-1037576016/2022	ncov	2022-08-05	South America	Colombia	Risaralda		BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-N8985915/2022	ncov	2022-08-06	South America	Colombia	Valle del Cauca	Cali	BA.5.2.28	GRA
+hCoV-19/Colombia/VAC-LCSS-16236665/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LCSS-31228634/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Cali	BA.4.6.5	GRA
+hCoV-19/Colombia/VAC-LCSS-6070762/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1144056465/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cali	BA.4.6.5	GRA
+hCoV-19/Colombia/VAC-LCSS-4506748/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1113636559/2022	ncov	2022-08-03	South America	Colombia	Valle del Cauca	Cali	BA.5.2.1	GRA
+hCoV-19/Colombia/VAC-LCSS-AR917546/2022	ncov	2022-08-04	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1144188171/2022	ncov	2022-08-05	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LCSS-1144033463/2022	ncov	2022-08-06	South America	Colombia	Valle del Cauca	Jamundi	BA.4.1	GRA
+hCoV-19/Colombia/VAC-Colcan-47427456/2022	ncov	2022-06-03	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-Colcan-1053791312/2022	ncov	2022-06-09	South America	Colombia	Valle del Cauca	Cali	BA.2.23	GRA
+hCoV-19/Colombia/VAC-Colcan-1130681851/2022	ncov	2022-06-08	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-Colcan-1130599612/2022	ncov	2022-06-13	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-Colcan-38960883/2022	ncov	2022-06-17	South America	Colombia	Valle del Cauca	Cali	BA.2.12.1	GRA
+hCoV-19/Colombia/VAC-Colcan-16705513/2022	ncov	2022-06-14	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-Colcan-1112956165/2022	ncov	2022-06-28	South America	Colombia	Valle del Cauca	Palmira	BA.4.1	GRA
+hCoV-19/Colombia/VAC-Colcan-16691087/2022	ncov	2022-06-30	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-Colcan-1099363403/2022	ncov	2022-06-30	South America	Colombia	Valle del Cauca	Cali	BA.5.2	GRA
+hCoV-19/Colombia/VAC-CSB-31947561/2022	ncov	2022-07-30	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-CSB-34551810/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Cali	BA.5.1.30	GRA
+hCoV-19/Colombia/VAC-LCSS-1118257473/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Palmira	BA.5.6	GRA
+hCoV-19/Colombia/VAC-Colcan-16268829/2022	ncov	2022-06-11	South America	Colombia	Valle del Cauca	Palmira	BA.5.6	GRA
+hCoV-19/Colombia/VAC-FVL-94479615/2022	ncov	2022-08-26	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-SYNLAB-14447539/2022	ncov	2022-08-31	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-e60240230/2022	ncov	2022-08-23	South America	Colombia	Valle del Cauca	Cali	BA.5.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29096042/2022	ncov	2022-08-13	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-2501182/2022	ncov	2022-08-22	South America	Colombia	Valle del Cauca	Buga	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1241442250/2022	ncov	2022-08-10	South America	Colombia	Valle del Cauca	Cali	BF.26	GRA
+hCoV-19/Colombia/NAR-SYNLAB-67020644/2022	ncov	2022-08-09	South America	Colombia	Narino	Pasto	BA.4.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-1085317676/2022	ncov	2022-08-11	South America	Colombia	Narino	Pasto	BA.5.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-59313715/2022	ncov	2022-08-11	South America	Colombia	Narino	Pasto	BA.4.1	GRA
+hCoV-19/Colombia/RIS-SYNLAB-16880801/2022	ncov	2022-08-09	South America	Colombia	Risaralda	Dosquebradas	BA.5.5	GRA
+hCoV-19/Colombia/NAR-SYNLAB-52796337/2022	ncov	2022-08-17	South America	Colombia	Narino	Pasto	BA.4.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16712389/2022	ncov	2022-08-23	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1115071156/2022	ncov	2022-08-16	South America	Colombia	Valle del Cauca	Buga	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1144069559/2022	ncov	2022-08-17	South America	Colombia	Valle del Cauca	Cali	BA.5.2.1	GRA
+hCoV-19/Colombia/VAC-LCSS-1107041274/2022	ncov	2022-08-31	South America	Colombia	Valle del Cauca	Cali	BA.5.2	GRA
+hCoV-19/Colombia/VAC-LCSS-72277009/2022	ncov	2022-09-08	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-30739171/2022	ncov	2022-08-25	South America	Colombia	Narino	Pasto	BA.5.6	GRA
+hCoV-19/Colombia/RIS-SYNLAB-4576285/2022	ncov	2022-08-28	South America	Colombia	Risaralda	Santa Rosa de Cabal	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-8269638/2022	ncov	2022-09-03	South America	Colombia	Valle del Cauca	Cali	BA.5.1.30	GRA
+hCoV-19/Colombia/VAC-CSB-37083431/2022	ncov	2022-09-08	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-31274517/2022	ncov	2022-09-09	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/CAU-SYNLAB-76306801/2022	ncov	2022-09-14	South America	Colombia	Cauca	Popayan	BA.5.2	GRA
+hCoV-19/Colombia/VAC-CSB-16774070/2022	ncov	2022-09-14	South America	Colombia	Valle del Cauca	Cali	BA.5.6.1	GRA
+hCoV-19/Colombia/VAC-CSB-94427543/2022	ncov	2022-09-14	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LCO-29348807/2022	ncov	2022-09-05	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-CI-66712608/2022	ncov	2022-09-08	South America	Colombia	Valle del Cauca	Cali	BA.5.2.9	GRA
+hCoV-19/Colombia/VAC-LCSS-66831362/2022	ncov	2022-09-13	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-FVL-24325236/2022	ncov	2022-09-20	South America	Colombia	Valle del Cauca	Cali	BA.5.1.25	GRA
+hCoV-19/Colombia/VAC-SYNLAB-66857496/2022	ncov	2022-08-23	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/NAR-IDSN-1007642332/2022	ncov	2022-01-31	South America	Colombia	Narino	Pasto	BA.5.2.1	GRA
+hCoV-19/Colombia/CAU-CSB-1061764532/2022	ncov	2022-09-22	South America	Colombia	Cauca	Popayan	BA.5.2	GRA
+hCoV-19/Colombia/VAC-LCO-nr938s2c1/2022	ncov	2022-09-05	South America	Colombia	Valle del Cauca	Cali	BA.5.1.2	GRA
+hCoV-19/Colombia/VAC-LCO-29003297/2022	ncov	2022-09-25	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-LCSS-38862255/2022	ncov	2022-09-26	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-FVL-1144032127/2022	ncov	2022-09-21	South America	Colombia	Valle del Cauca	Cali	BA.4.6.5	GRA
+hCoV-19/Colombia/VAC-FVL-52316905/2022	ncov	2022-09-26	South America	Colombia	Valle del Cauca	Cali	BA.5.1.22	GRA
+hCoV-19/Colombia/VAC-LCSS-14989155/2022	ncov	2022-10-07	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-LCSS-31259049/2022	ncov	2022-10-07	South America	Colombia	Valle del Cauca	Cali	BA.5.2.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1130605678/2022	ncov	2022-10-05	South America	Colombia	Valle del Cauca	Cali	BA.5.5	GRA
+hCoV-19/Colombia/VAC-FVL-1023532883/2022	ncov	2022-10-09	South America	Colombia	Valle del Cauca	Palmira	BA.5.2	GRA
+hCoV-19/Colombia/VAC-SURA-8248387/2022	ncov	2022-10-01	South America	Colombia	Valle del Cauca	Cali	BA.5.6.1	GRA
+hCoV-19/Colombia/QUI-LCSS-39725139/2022	ncov	2022-10-22	South America	Colombia	Quindio	Armenia	BQ.1.1	GRA
+hCoV-19/Colombia/VAC-LCSS-6086777/2022	ncov	2022-10-23	South America	Colombia	Valle del Cauca	Cali	BQ.1.1.10	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31929148/2022	ncov	2022-10-18	South America	Colombia	Valle del Cauca	Cali	BA.5.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-38985408/2022	ncov	2022-10-18	South America	Colombia	Valle del Cauca	Cali	BA.5.2.9	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31244446/2022	ncov	2022-10-21	South America	Colombia	Valle del Cauca	Cali	BF.7.6	GRA
+hCoV-19/Colombia/VAC-CSB-38977690/2022	ncov	2022-10-19	South America	Colombia	Valle del Cauca	Cali	CM.9	GRA
+hCoV-19/Colombia/VAC-CSB-38562492/2022	ncov	2022-10-18	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-FVL-5197983/2022	ncov	2022-08-09	South America	Colombia	Valle del Cauca		BA.5.1	GRA
+hCoV-19/Colombia/VAC-FVL-1047336529/2022	ncov	2022-08-12	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-FVL-39693182/2022	ncov	2022-08-16	South America	Colombia	Valle del Cauca	Cali	BA.5.2	GRA
+hCoV-19/Colombia/VAC-CIC-14883701/2022	ncov	2022-07-19	South America	Colombia	Valle del Cauca	Buga	BA.5.6	GRA
+hCoV-19/Colombia/VAC-IDIME-20255253/2022	ncov	2022-07-31	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-IDIME-94372015/2022	ncov	2022-08-02	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-IDIME-1094162913/2022	ncov	2022-08-01	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-IDIME-31478522/2022	ncov	2022-08-03	South America	Colombia	Valle del Cauca	Cali	BA.5.2	GRA
+hCoV-19/Colombia/VAC-IDIME-1112229570/2022	ncov	2022-08-03	South America	Colombia	Valle del Cauca	Pradera	BA.4.1	GRA
+hCoV-19/Colombia/VAC-IDIME-6199647/2022	ncov	2022-08-04	South America	Colombia	Valle del Cauca	Tulua	BA.5.1	GRA
+hCoV-19/Colombia/VAC-LCO-14435208/2022	ncov	2022-08-20	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LCO-1116253405/2022	ncov	2022-07-13	South America	Colombia	Valle del Cauca	El Cerrito	BA.5.1	GRA
+hCoV-19/Colombia/VAC-LCO-5547806/2022	ncov	2022-07-10	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-LCO-1438021/2022	ncov	2022-07-13	South America	Colombia	Valle del Cauca	Bolivar	BA.5.1	GRA
+hCoV-19/Colombia/VAC-LCO-1232788633/2022	ncov	2022-01-13	South America	Colombia	Valle del Cauca	Cali	BA.5.2.1	GRA
+hCoV-19/Colombia/CAU-LCO-12123069/2022	ncov	2022-08-07	South America	Colombia	Cauca	Popayan	BA.5.6	GRA
+hCoV-19/Colombia/VAC-LCO-41946828/2022	ncov	2022-08-04	South America	Colombia	Valle del Cauca	Palmira	BA.5.6	GRA
+hCoV-19/Colombia/SAN-LCSS-63560132/2022	ncov	1905-07-14	South America	Colombia	Santander	Bucaramanga	BA.5.2	GRA
+hCoV-19/Colombia/VAC-LCSS-1118256176/2022	ncov	2022-01-03	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-LCSS-29009355/2022	ncov	2022-08-25	South America	Colombia	Valle del Cauca	Cali	BA.5.2.9	GRA
+hCoV-19/Colombia/NAR-Unilab-27118741/2022	ncov	2022-08-12	South America	Colombia	Narino	San Pedro de Cartago	BA.5.6	GRA
+hCoV-19/Colombia/CAU-CSB-76317687/2022	ncov	2022-08-02	South America	Colombia	Cauca	Popayan	BA.5.1.30	GRA
+hCoV-19/Colombia/VAC-CSB-43686217/2022	ncov	2022-09-02	South America	Colombia	Valle del Cauca		BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-66810621/2022	ncov	2022-08-31	South America	Colombia	Valle del Cauca		CA.1	GRA
+hCoV-19/Colombia/VAC-CSB-94396380/2022	ncov	2022-08-25	South America	Colombia	Valle del Cauca		BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-31215380/2022	ncov	2022-08-25	South America	Colombia	Valle del Cauca		BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1144048597/2022	ncov	2022-08-31	South America	Colombia	Valle del Cauca		BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1150695608/2022	ncov	2022-08-30	South America	Colombia	Valle del Cauca		BA.4.6	GRA
+hCoV-19/Colombia/VAC-CSB-1107091384/2022	ncov	2022-08-29	South America	Colombia	Valle del Cauca		BE.1	GRA
+hCoV-19/Colombia/VAC-CSB-1130615495/2022	ncov	2022-08-09	South America	Colombia	Valle del Cauca	Cali	BA.5.2.1	GRA
+hCoV-19/Colombia/VAC-CSB-1007509705/2022	ncov	2022-08-20	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-91234496/2022	ncov	2022-08-16	South America	Colombia	Valle del Cauca	Cali	BE.1	GRA
+hCoV-19/Colombia/VAC-CSB-16823407/2022	ncov	2022-08-16	South America	Colombia	Valle del Cauca	Cali	BA.5.2.1	GRA
+hCoV-19/Colombia/VAC-CSB-94332420/2022	ncov	2022-08-13	South America	Colombia	Valle del Cauca	Cali	BF.10	GRA
+hCoV-19/Colombia/VAC-CSB-31573352/2022	ncov	2022-08-14	South America	Colombia	Valle del Cauca	Cali	BA.2	GRA
+hCoV-19/Colombia/VAC-CSB-34524645/2022	ncov	2022-08-14	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-CSB-1072495139/2022	ncov	2022-01-17	South America	Colombia	Valle del Cauca	Cali	BA.5.2.1	GRA
+hCoV-19/Colombia/VAC-CSB-31951627/2022	ncov	2022-08-21	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-CSB-31838930/2022	ncov	2022-08-24	South America	Colombia	Valle del Cauca	Cali	BA.4.6.5	GRA
+hCoV-19/Colombia/VAC-CSB-1005893972/2022	ncov	2022-08-18	South America	Colombia	Valle del Cauca	Cali	BA.4.6	GRA
+hCoV-19/Colombia/VAC-CSB-1428223/2022	ncov	2022-08-21	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-CSB-66655567/2022	ncov	2022-08-19	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-CSB-31399981/2022	ncov	2022-08-18	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-30740236/2022	ncov	2022-08-06	South America	Colombia	Narino	Pasto	BA.4.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-1085281034/2022	ncov	2022-08-08	South America	Colombia	Narino	Pasto	BA.5.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-27080926/2022	ncov	2022-07-29	South America	Colombia	Narino	Pasto	BA.4.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-27079007/2022	ncov	2022-08-05	South America	Colombia	Narino	Pasto	BA.4.1	GRA
+hCoV-19/Colombia/NAR-SYNLAB-36954014/2022	ncov	2022-08-14	South America	Colombia	Narino	Pasto	BA.4.1	GRA
+hCoV-19/Colombia/RIS-SYNLAB-9760774/2022	ncov	2022-07-25	South America	Colombia	Risaralda	Belen de Umbria	BA.5.1	GRA
+hCoV-19/Colombia/RIS-SYNLAB-18562200/2022	ncov	2022-07-24	South America	Colombia	Risaralda	Santa Rosa de Cabal	BF.10	GRA
+hCoV-19/Colombia/VAC-SYNLAB-6182566/2022	ncov	2022-08-09	South America	Colombia	Valle del Cauca	Buga	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1115093231/2022	ncov	2022-08-08	South America	Colombia	Valle del Cauca	Buga	BF.8	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1115079794/2022	ncov	2022-08-11	South America	Colombia	Valle del Cauca	Buga	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16880801/2022	ncov	2022-08-09	South America	Colombia	Valle del Cauca	Cali	BA.5.5	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1144087801/2022	ncov	2022-08-12	South America	Colombia	Valle del Cauca	Cali	BA.5.6	GRA
+hCoV-19/Colombia/VAC-SYNLAB-14994387/2022	ncov	2022-08-14	South America	Colombia	Valle del Cauca	Cali	BA.5.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1059993037/2022	ncov	2022-08-13	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-14836322/2022	ncov	2022-08-13	South America	Colombia	Valle del Cauca	Cali	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-38940473/2022	ncov	2022-08-10	South America	Colombia	Valle del Cauca	Dagua	BA.4.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29959145/2022	ncov	2022-08-19	South America	Colombia	Valle del Cauca	Darien	BA.5.2.47	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1116237957/2022	ncov	2022-08-24	South America	Colombia	Valle del Cauca	Yumbo	BA.5.8	GRA
+hCoV-19/Colombia/un-LCO-31583887/2022	ncov	1905-07-14	South America	Colombia			BA.4.1	GRA
+hCoV-19/Colombia/un-LCO-14800515/2022	ncov	2022-08-06	South America	Colombia			BA.5.6	GRA
+hCoV-19/Colombia/un-NAR-Unilab-1089478255/2022	ncov	2022-08-09	South America	Colombia			BA.4.1	GRA
+hCoV-19/Colombia/un-SDM-113468816/2022	ncov	1905-07-14	South America	Colombia			BA.4.6.5	GRA
+hCoV-19/Colombia/un-CSB-31274393/2022	ncov	2022-08-12	South America	Colombia			BA.5.2.1	GRA
+hCoV-19/Colombia/un-CSB-1062309992/2022	ncov	2022-08-16	South America	Colombia			BA.4.6	GRA
+hCoV-19/Colombia/un-CSB-3094110/2022	ncov	2022-08-17	South America	Colombia			BA.4.1	GRA
+hCoV-19/Colombia/un-CSB-79758450/2022	ncov	2022-08-18	South America	Colombia			BA.5.2.1	GRA
+hCoV-19/Colombia/un-CSB-1140834751/2022	ncov	2022-08-18	South America	Colombia			BA.5.6	GRA
+hCoV-19/Colombia/un-CSB-31968409/2022	ncov	2022-08-18	South America	Colombia			BA.5.2	GRA
+hCoV-19/Colombia/un-CSB-31913246/2022	ncov	2022-08-22	South America	Colombia			BA.5.1	GRA
+hCoV-19/Colombia/un-CSB-1144078239/2022	ncov	2022-08-22	South America	Colombia			BA.5.1	GRA
+hCoV-19/Colombia/un-CSB-16730080/2022	ncov	2022-08-25	South America	Colombia			BA.5.6	GRA
+hCoV-19/Colombia/un-CSB-31946953/2022	ncov	2022-08-18	South America	Colombia			BA.4.1	GRA
+hCoV-19/Colombia/un-CSB-1037583352/2022	ncov	2022-08-23	South America	Colombia			BA.5.6	GRA
+hCoV-19/Colombia/un-CSB-31999212/2022	ncov	2022-08-19	South America	Colombia			BA.4.4	GRA
+hCoV-19/Colombia/un-CSB-25277417/2022	ncov	2022-08-19	South America	Colombia			BA.5.6	GRA
+hCoV-19/Colombia/un-SYNLAB-1085317676/2022	ncov	1905-07-14	South America	Colombia			BA.5.1	GRA
+hCoV-19/Colombia/ATL-LCSS-1140856512/2022	ncov	2022-11-15	South America	Colombia	Atlantico	Barranquilla	Unassigned	GRA
+hCoV-19/Colombia/ATL-LCSS-23049813/2022	ncov	2022-11-18	South America	Colombia	Atlantico	Barranquilla	Unassigned	GRA
+hCoV-19/Colombia/DC-LCSS-41434165/2022	ncov	2022-11-19	South America	Colombia	Bogota	Bogota D.C.	Unassigned	GRA
+hCoV-19/Colombia/NAR-SYNLAB-1085263531/2022	ncov	2022-11-02	South America	Colombia	Narino	Pasto	BQ.1.1.4	GRA
+hCoV-19/Colombia/VAC-AS-31294420/2022	ncov	2022-11-15	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-CSB-1105936699/2022	ncov	2022-11-16	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-CSB-16686596/2022	ncov	2022-11-14	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-CSB-31202843/2022	ncov	2022-11-14	South America	Colombia	Valle del Cauca	Cali	BQ.1.1.4	GRA
+hCoV-19/Colombia/VAC-CSB-31875579/2022	ncov	2022-11-16	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-CSB-38877639/2022	ncov	2022-11-19	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-CSB-6107450/2022	ncov	2022-11-19	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-LCO-158960/2022	ncov	2022-11-15	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-LCO-4843040/2022	ncov	2022-11-10	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-LCO-71602964/2022	ncov	2022-11-10	South America	Colombia	Valle del Cauca	Cali	BQ.1.1	GRA
+hCoV-19/Colombia/VAC-LCSS-4608568/2022	ncov	2022-11-20	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-LDAB-1006179125/2022	ncov	2022-11-30	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-LDAB-1075242404/2022	ncov	2022-11-24	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-LDAB-1102370762/2022	ncov	2022-11-30	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-LDAB-1107064677/2022	ncov	2022-11-24	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-LDAB-1110287446/2022	ncov	2022-11-29	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-LDAB-1118257008/2022	ncov	2022-11-29	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-LDAB-1143830757/2022	ncov	2022-11-30	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-LDAB-136626576/2022	ncov	2022-11-30	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-LDAB-13747277/2022	ncov	2022-11-28	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-LDAB-29054801/2022	ncov	2022-11-24	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-LDAB-30740007/2022	ncov	2022-11-28	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-LDAB-31212487/2022	ncov	2022-12-14	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-LDAB-31281456/2022	ncov	2022-11-24	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-LDAB-31884224/2022	ncov	2022-12-05	South America	Colombia	Valle del Cauca	Cali	XBB	GRA
+hCoV-19/Colombia/VAC-LDAB-31910608/2022	ncov	2022-12-12	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-LDAB-31913884/2022	ncov	2022-12-12	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-LDAB-31972695/2022	ncov	2022-11-30	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-LDAB-31996174/2022	ncov	2022-12-14	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-LDAB-36380040/2022	ncov	2022-11-29	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-LDAB-38640370/2022	ncov	2022-11-30	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-LDAB-38966614/2022	ncov	2022-11-27	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-LDAB-6229265/2022	ncov	2022-11-24	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-LDAB-66839756/2022	ncov	2022-11-28	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-LDAB-66876716/2022	ncov	2022-12-06	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-LDAB-79805200/2022	ncov	2022-12-12	South America	Colombia	Valle del Cauca	Cali	Unassigned	GR
+hCoV-19/Colombia/VAC-LDAB-93379599/2022	ncov	2022-11-27	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-LDAB-94064832/2022	ncov	2022-11-29	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-LDAB-ECU200688/2022	ncov	2022-11-24	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-SDM-16861962/2022	ncov	2022-11-17	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-Sura-35457594/2022	ncov	2022-10-17	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1005978073/2022	ncov	2022-11-24	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-10213843/2022	ncov	2022-11-24	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-1116264495/2022	ncov	2022-11-18	South America	Colombia	Valle del Cauca	Palmira	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-14585251/2022	ncov	2022-11-20	South America	Colombia	Valle del Cauca	Cali	XBB	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16613173/2022	ncov	2022-11-16	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-16656049/2022	ncov	2022-11-23	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-19169535/2022	ncov	2022-11-21	South America	Colombia	Valle del Cauca	Cali	BQ.1.1.4	GRA
+hCoV-19/Colombia/VAC-SYNLAB-23896000/2022	ncov	2022-11-22	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-27502982/2022	ncov	2022-11-18	South America	Colombia	Valle del Cauca	Cali	XBB	GRA
+hCoV-19/Colombia/VAC-SYNLAB-29695200/2022	ncov	2022-11-17	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31886674/2022	ncov	2022-11-15	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31897364/2022	ncov	2022-11-24	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31973977/2022	ncov	2022-11-16	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-SYNLAB-31976942/2022	ncov	2022-11-24	South America	Colombia	Valle del Cauca	Cali	BQ.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-41789767/2022	ncov	2022-11-16	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-66853951/2022	ncov	2022-11-21	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-67003000/2022	ncov	2022-11-17	South America	Colombia	Valle del Cauca	Cali	BQ.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-67032929/2022	ncov	2022-11-26	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-6785659/2022	ncov	2022-11-15	South America	Colombia	Valle del Cauca	Cali	BQ.1.1	GRA
+hCoV-19/Colombia/VAC-SYNLAB-7140329/2022	ncov	2022-11-21	South America	Colombia	Valle del Cauca	Cali	Unassigned	GRA
+hCoV-19/Colombia/VAC-SYNLAB-94519737/2022	ncov	2022-11-22	South America	Colombia	Valle del Cauca	Cali	XBB.1	GRA
+Wuhan/Hu-1/2019	ncov	2019-12-26	Asia	China	Hubei	Wuhan		
